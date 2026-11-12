@@ -1,0 +1,37 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "BowsersFury",
+  "creator": "Elytro",
+  "filler_item_name": "Coin",
+  "starting_items": [
+    {
+      "items": [
+        "Scamper Shores",
+        "Fort Flaptrap",
+        "Pounce Bounce Isle"
+      ],
+      "random": 1
+    },
+    {
+      "items": [
+        "Claw (Cat)",
+        "Pounce (Cat)",
+        "Dive (Cat)",
+        "Climb (Cat)",
+        "Throw Fireballs (Fire)",
+        "Throw Boomerang (Boomerang)",
+        "Tail Attack (Tanooki)",
+        "Glide (Tanooki)",
+        "Boost (Propeller Box)",
+        "Glide (Propeller Box)"
+      ],
+      "yaml_option": ["!powerup_abilities"]
+    },
+    {
+      "items": [
+        "Dive (Plessie)"
+      ],
+      "yaml_option": ["!plessie_abilities"]
+    }
+  ]
+}

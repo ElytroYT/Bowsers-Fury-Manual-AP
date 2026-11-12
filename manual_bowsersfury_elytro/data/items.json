@@ -1,0 +1,426 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": 1,
+      "name": "Run",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Carry/Throw",
+      "category": [
+        "Abilities"
+      ],
+      "progression": true
+    },
+    {
+      "count": "1",
+      "name": "Spin",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Spin Jump",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Crouch",
+      "category": [
+        "Abilities"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Backflip",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Ground Pound",
+      "category": [
+        "Abilities"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ground Pound Jump",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Long Jump",
+      "category": [
+        "Abilities"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Roll",
+      "category": [
+        "Abilities"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dive",
+      "category": [
+        "Abilities"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sideflip",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Wall Jump",
+      "category": [
+        "Abilities"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Climb",
+      "category": [
+        "Abilities"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Enter Shell",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Super Bell",
+      "category": [
+        "Powerups",
+        "Cat"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Lucky Bell",
+      "category": [
+        "Powerups",
+        "Cat"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Giga Bell",
+      "category": [
+        "Powerups",
+        "Cat"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Claw (Cat)",
+      "category": [
+        "Cat"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Pounce (Cat)",
+      "category": [
+        "Cat"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dive (Cat)",
+      "category": [
+        "Cat"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Climb (Cat)",
+      "category": [
+        "Cat"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Fire Flower",
+      "category": [
+        "Powerups",
+        "Fire"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Throw Fireballs (Fire)",
+      "category": [
+        "Fire"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Boomerang Flower",
+      "category": [
+        "Powerups",
+        "Boomerang"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Throw Boomerang (Boomerang)",
+      "category": [
+        "Boomerang"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Super Leaf",
+      "category": [
+        "Powerups",
+        "Tanooki"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tail Attack (Tanooki)",
+      "category": [
+        "Tanooki"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Glide (Tanooki)",
+      "category": [
+        "Tanooki"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Propeller Box",
+      "category": [
+        "Powerups",
+        "Propeller Box"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Boost (Propeller Box)",
+      "category": [
+        "Propeller Box"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Glide (Propeller Box)",
+      "category": [
+        "Propeller Box"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Plessie",
+      "category": [
+        "Plessie"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dive (Plessie)",
+      "category": [
+        "Plessie"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Ice Skate",
+      "category": [
+        "Powerups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Super Star",
+      "category": [
+        "Powerups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bowser Jr. Cursor",
+      "category": [
+        "Powerups"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Scamper Shores",
+      "category": [
+        "Area Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Fort Flaptrap",
+      "category": [
+        "Area Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Pounce Bounce Isle",
+      "category": [
+        "Area Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Slipskate Slope",
+      "category": [
+        "Area Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Clawswipe Colosseum",
+      "category": [
+        "Area Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Trickity Tower",
+      "category": [
+        "Area Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Crisp Climb Castle",
+      "category": [
+        "Area Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Roiling Roller Isle",
+      "category": [
+        "Area Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Pipe Path Tower",
+      "category": [
+        "Area Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Risky Whisker Island",
+      "category": [
+        "Area Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mount Magmeow",
+      "category": [
+        "Area Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Lakeside Area",
+      "category": [
+        "Area Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ruins Area",
+      "category": [
+        "Area Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": "1",
+      "name": "Wasteland Area",
+      "category": [
+        "Area Unlocks"
+      ],
+      "progression": true
+    },
+    {
+      "count": "62",
+      "name": "Cat Shine",
+      "category": [],
+      "progression": true
+    }
+  ]
+}

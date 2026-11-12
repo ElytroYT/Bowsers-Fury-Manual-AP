@@ -1,0 +1,61 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "How to End your Randomized playthrough.",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "values": {
+                "recommended": 20
+            }
+        }
+    },
+    "user": {
+        "powerup_abilities":{
+            "display_name": "Lock Powerup Abilities",
+            "description": [
+                "If powerup abilities will be locked or not",
+                "For example, if enabled you will have to unlock 'Shoot Fireballs' as well as 'Fire Flower'",
+                "Cat Suit, Super Leaf, and Propeller Box have 4, 2, and 2 abilities respectively"
+            ],
+            "type": "Toggle",
+            "default": false
+        },
+        "plessie_abilities":{
+            "display_name": "Lock 'Dive (Plessie)'",
+            "description": [
+                "If 'Dive (Plessie)' will be locked or not",
+                "'Dive (Plessie)' is not a progression item, and just makes swimming with plessie faster"
+            ],
+            "type": "Toggle",
+            "default": true
+        },
+        "extra_shines":{
+            "display_name": "Extra Cat Shines",
+            "type": "Range",
+            "description": [
+                "How many extra Cat Shines over the 50 required for the final fight will be added to the item pool",
+                "23 is the theoretical maximum assuming you have both options above disabled",
+                "Having 'Lock Powerup Abilities' disabled frees 10 item slots in the item pool",
+                "Having 'Lock Dive (Plessie)' disabled frees 1 item slot in the item pool",
+                "The amount of extra Cat Shines added will be automatically reduced if set too high for your other options"
+            ],
+            "range_start": 0,
+            "default": 5,
+            "range_end": 23,
+            "values": {"Default": 5}
+        }
+    }
+
+}

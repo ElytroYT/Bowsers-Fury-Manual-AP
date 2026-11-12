@@ -1,0 +1,152 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "Fur Step Island": {
+    "starting": true,
+    "connects_to": [
+      "Scamper Shores",
+      "Fort Flaptrap",
+      "Pounce Bounce Isle",
+      "Lakeside Area"
+    ],
+    "requires": ""
+  },
+  "Scamper Shores": {
+    "starting": false,
+    "connects_to": [
+      "Fur Step Island",
+      "Fort Flaptrap",
+      "Pounce Bounce Isle",
+      "Lakeside Area"
+    ],
+    "requires": "|Scamper Shores|"
+  },
+  "Fort Flaptrap": {
+    "connects_to": [
+      "Fur Step Island",
+      "Pounce Bounce Isle",
+      "Lakeside Area",
+      "Scamper Shores"
+    ],
+    "requires": "|Fort Flaptrap|"
+  },
+  "Pounce Bounce Isle": {
+    "connects_to": [
+      "Fur Step Island",
+      "Fort Flaptrap",
+      "Lakeside Area",
+      "Scamper Shores"
+    ],
+    "requires": "|Pounce Bounce Isle|"
+  },
+  "Lakeside Area": {
+    "connects_to": [
+      "Fur Step Island",
+      "Scamper Shores",
+      "Fort Flaptrap",
+      "Pounce Bounce Isle",
+      "Ruins Area",
+      "Slipskate Slope",
+      "Clawswipe Colosseum",
+      "Trickity Tower",
+      "Crisp Climb Castle"
+    ],
+    "requires": "|Lakeside Area|"
+  },
+  "Slipskate Slope": {
+    "connects_to": [
+      "Clawswipe Colosseum",
+      "Trickity Tower",
+      "Crisp Climb Castle",
+      "Ruins Area"
+    ],
+    "requires": "|Slipskate Slope| AND |Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|)"
+  },
+  "Clawswipe Colosseum": {
+    "connects_to": [
+      "Slipskate Slope",
+      "Trickity Tower",
+      "Crisp Climb Castle",
+      "Ruins Area"
+    ],
+    "requires": "|Clawswipe Colosseum| AND |Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|)"
+  },
+  "Trickity Tower": {
+    "connects_to": [
+      "Slipskate Slope",
+      "Clawswipe Colosseum",
+      "Crisp Climb Castle",
+      "Ruins Area"
+    ],
+    "requires": "|Trickity Tower| AND |Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|)"
+  },
+  "Crisp Climb Castle": {
+    "connects_to": [
+      "Slipskate Slope",
+      "Clawswipe Colosseum",
+      "Trickity Tower",
+      "Ruins Area"
+    ],
+    "requires": "|Crisp Climb Castle| AND |Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|)"
+  },
+  "Ruins Area": {
+    "connects_to": [
+      "Slipskate Slope",
+      "Clawswipe Colosseum",
+      "Trickity Tower",
+      "Crisp Climb Castle",
+      "Lakeside Area",
+      "Wasteland Area",
+      "Roiling Roller Isle",
+      "Pipe Path Tower",
+      "Risky Whisker Island",
+      "Mount Magmeow"
+    ],
+    "requires": "|Ruins Area| AND |Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|)"
+  },
+  "Roiling Roller Isle": {
+    "connects_to": [
+      "Pipe Path Tower",
+      "Risky Whisker Island",
+      "Mount Magmeow",
+      "Wasteland Area"
+    ],
+    "requires": "|Roiling Roller Isle| AND |Cat Shine:20| AND (|Giga Bell| AND |Claw (Cat)|)"
+  },
+  "Pipe Path Tower": {
+    "connects_to": [
+      "Roiling Roller Isle",
+      "Risky Whisker Island",
+      "Mount Magmeow",
+      "Wasteland Area"
+    ],
+    "requires": "|Pipe Path Tower| AND |Cat Shine:20| AND (|Giga Bell| AND |Claw (Cat)|)"
+  },
+  "Risky Whisker Island": {
+    "connects_to": [
+      "Roiling Roller Isle",
+      "Pipe Path Tower",
+      "Mount Magmeow",
+      "Wasteland Area"
+    ],
+    "requires": "|Risky Whisker Island| AND |Cat Shine:20| AND (|Giga Bell| AND |Claw (Cat)|)"
+  },
+  "Mount Magmeow": {
+    "connects_to": [
+      "Roiling Roller Isle",
+      "Pipe Path Tower",
+      "Risky Whisker Island",
+      "Wasteland Area"
+    ],
+    "requires": "|Mount Magmeow| AND |Cat Shine:20| AND (|Giga Bell| AND |Claw (Cat)|)"
+  },
+  "Wasteland Area": {
+    "connects_to": [
+      "Roiling Roller Isle",
+      "Pipe Path Tower",
+      "Risky Whisker Island",
+      "Mount Magmeow",
+      "Ruins Area"
+    ],
+    "requires": "|Wasteland Area| AND |Cat Shine:20| AND (|Giga Bell| AND |Claw (Cat)|)"
+  }
+}
