@@ -1,0 +1,322 @@
+[
+    {
+        "name": "Run",
+        "type": "toggle",
+        "img": "images/items/Run.png",
+        "codes": "run"
+    },
+    {
+        "name": "Carry/Throw",
+        "type": "toggle",
+        "img": "images/items/Carry_Throw.png",
+        "codes": "carry/throw"
+    },
+    {
+        "name": "Spin",
+        "type": "toggle",
+        "img": "images/items/Spin.png",
+        "codes": "spin"
+    },
+    {
+        "name": "Spin Jump",
+        "type": "toggle",
+        "img": "images/items/Spin_Jump.png",
+        "codes": "spin_jump"
+    },
+    {
+        "name": "Crouch",
+        "type": "toggle",
+        "img": "images/items/Crouch.png",
+        "codes": "crouch"
+    },
+    {
+        "name": "Backflip",
+        "type": "toggle",
+        "img": "images/items/Backflip.png",
+        "codes": "backflip"
+    },
+    {
+        "name": "Ground Pound",
+        "type": "toggle",
+        "img": "images/items/Ground_Pound.png",
+        "codes": "ground_pound"
+    },
+    {
+        "name": "Ground Pound Jump",
+        "type": "toggle",
+        "img": "images/items/Ground_Pound_Jump.png",
+        "codes": "ground_pound_jump"
+    },
+    {
+        "name": "Long Jump",
+        "type": "toggle",
+        "img": "images/items/Long_Jump.png",
+        "codes": "long_jump"
+    },
+    {
+        "name": "Roll",
+        "type": "toggle",
+        "img": "images/items/Roll.png",
+        "codes": "roll"
+    },
+    {
+        "name": "Dive",
+        "type": "toggle",
+        "img": "images/items/Dive.png",
+        "codes": "dive"
+    },
+    {
+        "name": "Sideflip",
+        "type": "toggle",
+        "img": "images/items/Sideflip.png",
+        "codes": "sideflip"
+    },
+    {
+        "name": "Wall Jump",
+        "type": "toggle",
+        "img": "images/items/Wall_Jump.png",
+        "codes": "wall_jump"
+    },
+    {
+        "name": "Climb",
+        "type": "toggle",
+        "img": "images/items/Climb.png",
+        "codes": "climb"
+    },
+    {
+        "name": "Enter Shell",
+        "type": "toggle",
+        "img": "images/items/Enter_Shell.png",
+        "codes": "enter_shell"
+    },
+    {
+        "name": "Super Bell",
+        "type": "toggle",
+        "img": "images/items/Super_Bell.png",
+        "codes": "super_bell"
+    },
+    {
+        "name": "Lucky Bell",
+        "type": "toggle",
+        "img": "images/items/Lucky_Bell.png",
+        "codes": "lucky_bell"
+    },
+    {
+        "name": "Giga Bell",
+        "type": "toggle",
+        "img": "images/items/Giga_Bell.png",
+        "codes": "giga_bell"
+    },
+    {
+        "name": "Claw (Cat)",
+        "type": "toggle",
+        "img": "images/items/Claw_(Cat).png",
+        "codes": "claw_(cat)"
+    },
+    {
+        "name": "Pounce (Cat)",
+        "type": "toggle",
+        "img": "images/items/Pounce_(Cat).png",
+        "codes": "pounce_(cat)"
+    },
+    {
+        "name": "Dive (Cat)",
+        "type": "toggle",
+        "img": "images/items/Dive_(Cat).png",
+        "codes": "dive_(cat)"
+    },
+    {
+        "name": "Climb (Cat)",
+        "type": "toggle",
+        "img": "images/items/Climb_(Cat).png",
+        "codes": "climb_(cat)"
+    },
+    {
+        "name": "Fire Flower",
+        "type": "toggle",
+        "img": "images/items/Fire_Flower.png",
+        "codes": "fire_flower"
+    },
+    {
+        "name": "Throw Fireballs (Fire)",
+        "type": "toggle",
+        "img": "images/items/Throw_Fireballs_(Fire).png",
+        "codes": "throw_fireballs_(fire)"
+    },
+    {
+        "name": "Boomerang Flower",
+        "type": "toggle",
+        "img": "images/items/Boomerang_Flower.png",
+        "codes": "boomerang_flower"
+    },
+    {
+        "name": "Throw Boomerang (Boomerang)",
+        "type": "toggle",
+        "img": "images/items/Throw_Boomerang_(Boomerang).png",
+        "codes": "throw_boomerang_(boomerang)"
+    },
+    {
+        "name": "Super Leaf",
+        "type": "toggle",
+        "img": "images/items/Super_Leaf.png",
+        "codes": "super_leaf"
+    },
+    {
+        "name": "Tail Attack (Tanooki)",
+        "type": "toggle",
+        "img": "images/items/Tail_Attack_(Tanooki).png",
+        "codes": "tail_attack_(tanooki)"
+    },
+    {
+        "name": "Glide (Tanooki)",
+        "type": "toggle",
+        "img": "images/items/Glide_(Tanooki).png",
+        "codes": "glide_(tanooki)"
+    },
+    {
+        "name": "Propeller Box",
+        "type": "toggle",
+        "img": "images/items/Propeller_Box.png",
+        "codes": "propeller_box"
+    },
+    {
+        "name": "Boost (Propeller Box)",
+        "type": "toggle",
+        "img": "images/items/Boost_(Propeller_Box).png",
+        "codes": "boost_(propeller_box)"
+    },
+    {
+        "name": "Glide (Propeller Box)",
+        "type": "toggle",
+        "img": "images/items/Glide_(Propeller_Box).png",
+        "codes": "glide_(propeller_box)"
+    },
+    {
+        "name": "Plessie",
+        "type": "toggle",
+        "img": "images/items/Plessie.png",
+        "codes": "plessie"
+    },
+    {
+        "name": "Dive (Plessie)",
+        "type": "toggle",
+        "img": "images/items/Dive_(Plessie).png",
+        "codes": "dive_(plessie)"
+    },
+    {
+        "name": "Ice Skate",
+        "type": "toggle",
+        "img": "images/items/Ice_Skate.png",
+        "codes": "ice_skate"
+    },
+    {
+        "name": "Super Star",
+        "type": "toggle",
+        "img": "images/items/Super_Star.png",
+        "codes": "super_star"
+    },
+    {
+        "name": "Bowser Jr. Cursor",
+        "type": "toggle",
+        "img": "images/items/Bowser_Jr_Cursor.png",
+        "codes": "bowser_jr_cursor"
+    },
+    {
+        "name": "Fur Step Island",
+        "type": "toggle",
+        "img": "images/items/Unlock_Fur_Step_Island.png",
+        "codes": "unlock_fur_step_island"
+    },
+    {
+        "name": "Scamper Shores",
+        "type": "toggle",
+        "img": "images/items/Unlock_Scamper_Shores.png",
+        "codes": "unlock_scamper_shores"
+    },
+    {
+        "name": "Fort Flaptrap",
+        "type": "toggle",
+        "img": "images/items/Unlock_Fort_Flaptrap.png",
+        "codes": "unlock_fort_flaptrap"
+    },
+    {
+        "name": "Pounce Bounce Isle",
+        "type": "toggle",
+        "img": "images/items/Unlock_Pounce_Bounce_Isle.png",
+        "codes": "unlock_pounce_bounce_isle"
+    },
+    {
+        "name": "Slipskate Slope",
+        "type": "toggle",
+        "img": "images/items/Unlock_Slipskate_Slope.png",
+        "codes": "unlock_slipskate_slope"
+    },
+    {
+        "name": "Clawswipe Colosseum",
+        "type": "toggle",
+        "img": "images/items/Unlock_Clawswipe_Colosseum.png",
+        "codes": "unlock_clawswipe_colosseum"
+    },
+    {
+        "name": "Trickity Tower",
+        "type": "toggle",
+        "img": "images/items/Unlock_Trickity_Tower.png",
+        "codes": "unlock_trickity_tower"
+    },
+    {
+        "name": "Crisp Climb Castle",
+        "type": "toggle",
+        "img": "images/items/Unlock_Crisp_Climb_Castle.png",
+        "codes": "unlock_crisp_climb_castle"
+    },
+    {
+        "name": "Roiling Roller Isle",
+        "type": "toggle",
+        "img": "images/items/Unlock_Roiling_Roller_Isle.png",
+        "codes": "unlock_roiling_roller_isle"
+    },
+    {
+        "name": "Pipe Path Tower",
+        "type": "toggle",
+        "img": "images/items/Unlock_Pipe_Path_Tower.png",
+        "codes": "unlock_pipe_path_tower"
+    },
+    {
+        "name": "Risky Whisker Island",
+        "type": "toggle",
+        "img": "images/items/Unlock_Risky_Whisker_Island.png",
+        "codes": "unlock_risky_whisker_island"
+    },
+    {
+        "name": "Mount Magmeow",
+        "type": "toggle",
+        "img": "images/items/Unlock_Mount_Magmeow.png",
+        "codes": "unlock_mount_magmeow"
+    },
+    {
+        "name": "Lakeside Area",
+        "type": "toggle",
+        "img": "images/items/Unlock_Lakeside_Area.png",
+        "codes": "unlock_lakeside_area"
+    },
+    {
+        "name": "Ruins Area",
+        "type": "toggle",
+        "img": "images/items/Unlock_Ruins_Area.png",
+        "codes": "unlock_ruins_area"
+    },
+    {
+        "name": "Wasteland Area",
+        "type": "toggle",
+        "img": "images/items/Unlock_Wasteland_Area.png",
+        "codes": "unlock_wasteland_area"
+    },
+    {
+        "name": "Cat Shine",
+        "type": "consumable",
+        "img": "images/items/Cat_Shine.png",
+        "codes": "cat_shine",
+        "max_quantity": 73,
+        "overlay_font_size": 20
+    }
+]

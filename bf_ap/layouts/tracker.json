@@ -1,0 +1,16 @@
+{
+    "tracker_default": {
+        "type": "container",
+        "content": {
+            "type": "layout",
+            "key": "tracker_items"
+        }
+    },
+    "tracker_broadcast": {
+        "type": "container",
+        "content": {
+            "type": "layout",
+            "key": "tracker_items"
+        }
+    }
+}

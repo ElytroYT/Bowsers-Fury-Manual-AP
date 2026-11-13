@@ -1,0 +1,22 @@
+﻿{
+    "name": "Bowser's Fury - Archipelago Tracker",
+    "game_name": "Bowser's Fury",
+    "platform": "Nintendo Switch",
+    "package_version": "1.0.0",
+    "package_uid": "bf_ap_tracker",
+    "author": "Elytro",
+    "variants": {
+        "standard": {
+            "display_name": "AP Item Tracker",
+            "flags": [
+                "ap"
+            ]
+        },
+        "no_power_up_abilities": {
+            "display_name": "AP Item Tracker (No Powerup Abilities)",
+            "flags": [
+                "ap"
+            ]
+        }
+    }
+}

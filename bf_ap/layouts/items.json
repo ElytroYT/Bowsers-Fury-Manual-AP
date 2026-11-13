@@ -1,0 +1,93 @@
+{
+    "tracker_items": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_v_alignment": "middle",
+                "item_margin": "1,1",
+                "item_size": "50",
+                "rows": [
+                    [
+                        "run",
+                        "climb",
+                        "spin",
+                        "spin_jump",
+                        "wall_jump",
+                        "",
+                        "super_bell",
+                        "lucky_bell",
+                        "giga_bell",
+                        "fire_flower",
+                        "boomerang_flower",
+                        "super_leaf",
+                        "propeller_box",
+                        "",
+                        "plessie",
+                        "ice_skate"
+                    ],
+                    [
+                        "dive",
+                        "roll",
+                        "crouch",
+                        "backflip",
+                        "long_jump",
+                        "",
+                        "claw_(cat)",
+                        "pounce_(cat)",
+                        "dive_(cat)",
+                        "throw_fireballs_(fire)",
+                        "throw_boomerang_(boomerang)",
+                        "tail_attack_(tanooki)",
+                        "boost_(propeller_box)",
+                        "",
+                        "dive_(plessie)",
+                        "super_star"
+                    ],
+                    [
+                        "carry/throw",
+                        "enter_shell",
+                        "ground_pound",
+                        "ground_pound_jump",
+                        "sideflip",
+                        "",
+                        "",
+                        "climb_(cat)",
+                        "",
+                        "",
+                        "",
+                        "glide_(tanooki)",
+                        "glide_(propeller_box)",
+                        "",
+                        "",
+                        "bowser_jr_cursor"
+                    ],
+                    [
+                        "unlock_fur_step_island",
+                        "unlock_scamper_shores",
+                        "unlock_fort_flaptrap",
+                        "unlock_pounce_bounce_isle",
+                        "unlock_lakeside_area",
+                        "",
+                        "unlock_slipskate_slope",
+                        "unlock_clawswipe_colosseum",
+                        "unlock_trickity_tower",
+                        "unlock_crisp_climb_castle",
+                        "unlock_ruins_area",
+                        "",
+                        "unlock_roiling_roller_isle",
+                        "unlock_pipe_path_tower",
+                        "unlock_risky_whisker_island",
+                        "unlock_mount_magmeow",
+                        "unlock_wasteland_area"
+                    ],
+                    [
+                        "cat_shine"
+                    ]
+                ]
+            }
+        ]
+    }
+}
