@@ -1,6 +1,9 @@
 # Bowser's Fury Manual Archipelago Implementation
 This is a manual client archipelago implementation for Bowser's Fury.
 
+# REALLY IMPORTANT IF YOU WANT TO PLAY THIS
+In Bowser's Fury, after defeating Bowser the fourth time, if you then have more than 47 Cat Shines Bowser will stay around forever and never leave. This makes the game annoying to play and also makes the lost kitten shines impossible because Bowser makes the kittens evil which prevents you from picking them up. I highly recommend making a duplicate of your save to load back to before doing the fourth Bowser fight, because if you haven't received enough Cat Shine items for the final fight, but have more than 47 in game, Bowser will show up and be annoying.
+
 # Locations
 - All 81 Cat Shines available before beating the game.
 - All 4 Bowser fights (the fifth Bowser fight is the goal).
