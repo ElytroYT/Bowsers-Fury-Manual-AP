@@ -87,6 +87,11 @@ Amount of extra Cat Shines added will be decreased to fit within the item pool i
 
 # Other Info
 Intended to be played from a new save file. You start with Fur Step Island unlocked, and one of the first three areas (Scamper Shores, Fort Flaptrap, and Pounce Bounce Isle) unlocked.
+
+Here is a map of all graffiti locations
+
+<img src="images/Bowser-s-Fury-Map-with-Graffiti-Locations.png" alt="Map of all graffiti locations" width="400">
+
 ## Known Issues
 Generation fails sometimes, but this has only happened to me when generating a single game seed.
 ## Poptracker Pack
