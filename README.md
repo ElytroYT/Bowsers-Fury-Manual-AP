@@ -84,3 +84,8 @@ Having the above two options disabled frees up 10 and 1 slots in the item pool r
 If both are enabled there will be 12 free item slots for extra Cat Shines to be placed into.
 If both are disabled there will be 23 free item slots for extra Cat Shines to be placed into.
 Amount of extra Cat Shines added will be decreased to fit within the item pool if either of the options are enabled.
+
+# Other Info
+Intended to be played from a new save file. You start with Fur Step Island unlocked, and one of the first three areas (Scamper Shores, Fort Flaptrap, and Pounce Bounce Isle) unlocked.
+## Known Issues
+Generation fails sometimes, but this has only happened to me when generating a single game seed.
