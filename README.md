@@ -89,3 +89,5 @@ Amount of extra Cat Shines added will be decreased to fit within the item pool i
 Intended to be played from a new save file. You start with Fur Step Island unlocked, and one of the first three areas (Scamper Shores, Fort Flaptrap, and Pounce Bounce Isle) unlocked.
 ## Known Issues
 Generation fails sometimes, but this has only happened to me when generating a single game seed.
+## Poptracker Pack
+A poptracker pack is also available with two layouts. One with powerup abilities and one without to save space if you have the Lock Powerup Abilities option disabled
