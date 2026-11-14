@@ -1,6 +1,9 @@
 # Bowser's Fury Manual Archipelago Implementation
 This is a manual client archipelago implementation for Bowser's Fury.
 
+# REALLY IMPORTANT IF YOU WANT TO PLAY THIS
+In Bowser's Fury, after defeating Bowser the fourth time, if you then have more than 47 Cat Shines Bowser will stay around forever and never leave. This makes the game annoying to play and also makes the lost kitten shines impossible because Bowser makes the kittens evil which prevents you from picking them up. I highly recommend making a duplicate of your save to load back to before doing the fourth Bowser fight for the check, because if you haven't received enough Cat Shine items for the final fight, but have more than 47 in game, Bowser will show up and be annoying.
+
 # Locations
 - All 81 Cat Shines available before beating the game.
 - All 4 Bowser fights (the fifth Bowser fight is the goal).
@@ -87,5 +90,12 @@ Amount of extra Cat Shines added will be decreased to fit within the item pool i
 
 # Other Info
 Intended to be played from a new save file. You start with Fur Step Island unlocked, and one of the first three areas (Scamper Shores, Fort Flaptrap, and Pounce Bounce Isle) unlocked.
+
+Here is a map of all graffiti locations
+
+<img src="images/Bowser-s-Fury-Map-with-Graffiti-Locations.png" alt="Map of all graffiti locations" width="400">
+
 ## Known Issues
 Generation fails sometimes, but this has only happened to me when generating a single game seed.
+## Poptracker Pack
+A poptracker pack is also available with two layouts. One with powerup abilities and one without to save space if you have the Lock Powerup Abilities option disabled
