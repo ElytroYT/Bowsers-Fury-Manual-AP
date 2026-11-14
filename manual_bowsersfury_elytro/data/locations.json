@@ -39,7 +39,7 @@
       "category": [
         "Scamper Shores"
       ],
-      "requires": "(|Propeller Box| AND |Boost (Propeller Box)| AND (((|Scamper Shores|) OR (|Pounce Bounce Isle| AND |Ground Pound|)) OR (|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND ((|Slipskate Slope| AND |Ice Skate|) OR (|Crisp Climb Castle|))))) OR ((|Super Bell| OR |Lucky Bell|) AND |Climb (Cat)|) OR |Bowser Jr. Cursor|"
+      "requires": "({PropellerBox(Scamper Shores)} AND |Boost (Propeller Box)|) OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR |Bowser Jr. Cursor|"
     },
     {
       "name": "Scamper Shores - Blast the Fury Blocks",
@@ -80,7 +80,7 @@
       "category": [
         "Fort Flaptrap"
       ],
-      "requires": "(|Climb| OR (|Propeller Box| AND |Boost (Propeller Box)| AND (((|Scamper Shores|) OR (|Pounce Bounce Isle| AND |Ground Pound|)) OR (|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND ((|Slipskate Slope| AND |Ice Skate|) OR (|Crisp Climb Castle|))))) OR |Bowser Jr. Cursor|) AND ((|Crouch| AND |Roll|) OR ((|Super Bell| OR |Lucky Bell|) AND (|Claw (Cat)| OR |Pounce (Cat)|)) OR (|Boomerang Flower| AND |Throw Boomerang (Boomerang)|) OR (|Super Leaf| AND |Tail Attack (Tanooki)| AND ((|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND |Bowser Jr. Cursor| AND (|Slipskate Slope| OR |Trickity Tower|)) OR (|Cat Shine:20| AND (|Giga Bell| AND |Claw (Cat)|) AND (|Risky Whisker Island| OR |Roiling Roller Isle|)))) OR (|Plessie| AND (|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|)))"
+      "requires": "(|Climb| OR ({PropellerBox(Fort Flaptrap)} AND |Boost (Propeller Box)|) OR |Bowser Jr. Cursor| OR {Plessie()}) AND ((|Crouch| AND |Roll|) OR (({SuperBell()} OR {LuckyBell()}) AND (|Claw (Cat)| OR |Pounce (Cat)|)) OR ({BoomerangFlower()} AND |Throw Boomerang (Boomerang)|) OR ({SuperLeaf()} AND |Tail Attack (Tanooki)|) OR {Plessie()})"
     },
     {
       "name": "Fort Flaptrap - Blast the Fury Blocks",
@@ -96,7 +96,7 @@
       "category": [
         "Pounce Bounce Isle"
       ],
-      "requires": "|Ground Pound| OR ((|Super Bell| OR |Lucky Bell|) AND (|Climb (Cat)| OR |Dive (Cat)|)) OR (|Propeller Box| AND |Boost (Propeller Box)| AND (((|Scamper Shores|) OR (|Pounce Bounce Isle| AND |Ground Pound|)) OR (|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND ((|Slipskate Slope| AND |Ice Skate|) OR (|Crisp Climb Castle|))))) OR (|Fire Flower| AND |Throw Fireballs (Fire)|) OR (|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)| AND |Plessie|)"
+      "requires": "|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND (|Climb (Cat)| OR |Dive (Cat)|)) OR ({PropellerBox(Pounce Bounce Isle)} AND |Boost (Propeller Box)|) OR ({FireFlower()} AND |Throw Fireballs (Fire)|) OR {Plessie()}"
     },
     {
       "name": "Pounce Bounce Isle - Hurry! Jump High, Jump Fast!",
@@ -120,7 +120,7 @@
       "category": [
         "Pounce Bounce Isle"
       ],
-      "requires": "|Ground Pound| OR ((|Super Bell| OR |Lucky Bell|) AND (|Climb (Cat)| OR |Dive (Cat)|)) OR (|Propeller Box| AND |Boost (Propeller Box)| AND (((|Scamper Shores|) OR (|Pounce Bounce Isle| AND |Ground Pound|)) OR (|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND ((|Slipskate Slope| AND |Ice Skate|) OR (|Crisp Climb Castle|))))) OR (|Fire Flower| AND |Throw Fireballs (Fire)|) OR (|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)| AND |Plessie|)"
+      "requires": "|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND (|Climb (Cat)| OR |Dive (Cat)|)) OR ({PropellerBox(Pounce Bounce Isle)} AND |Boost (Propeller Box)|) OR ({FireFlower()} AND |Throw Fireballs (Fire)|) OR {Plessie()}"
     },
     {
       "name": "Pounce Bounce Isle - Blast the Fury Blocks",
@@ -136,7 +136,7 @@
       "category": [
         "Lakeside Area"
       ],
-      "requires": "|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND (|Carry/Throw| OR (|Super Bell| OR |Lucky Bell|))"
+      "requires": "|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND (|Carry/Throw| OR ({SuperBell()} OR {LuckyBell()}))"
     },
     {
       "name": "Lakeside Area - Shoreside Rabbit Plays Tag",
@@ -152,7 +152,7 @@
       "category": [
         "Lakeside Area"
       ],
-      "requires": "(|Ground Pound| OR ((|Super Bell| OR |Lucky Bell|) AND |Climb (Cat)|) OR (|Propeller Box| AND |Boost (Propeller Box)| AND (((|Scamper Shores|) OR (|Pounce Bounce Isle| AND |Ground Pound|)) OR (|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND ((|Slipskate Slope| AND |Ice Skate|) OR (|Crisp Climb Castle|)))))) AND (((|Super Bell| OR |Lucky Bell|) AND (|Claw (Cat)| OR |Pounce (Cat)|) AND |Climb (Cat)|) OR (|Propeller Box| AND |Boost (Propeller Box)|) OR (|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND |Plessie|))"
+      "requires": "|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND (|Climb (Cat)| OR |Dive (Cat)|)) OR ({PropellerBox(Pounce Bounce Isle)} AND |Boost (Propeller Box)|) OR ({FireFlower()} AND |Throw Fireballs (Fire)|) OR {Plessie()} AND ((({SuperBell()} OR {LuckyBell()}) AND (|Claw (Cat)| OR |Pounce (Cat)|) AND |Climb (Cat)|) OR ({PropellerBox(Lakeside Area)} AND |Boost (Propeller Box)|) OR {Plessie()}"
     },
     {
       "name": "Lakeside Area - Hurry! Dash and Dive!",
@@ -192,7 +192,8 @@
       "category": [
         "Slipskate Slope"
       ],
-      "requires": "|Ice Skate| OR (|Propeller Box| AND |Boost (Propeller Box)| AND (((|Scamper Shores|) OR (|Pounce Bounce Isle| AND |Ground Pound|)) OR (|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND ((|Slipskate Slope| AND |Ice Skate|) OR (|Crisp Climb Castle|))))) OR |Bowser Jr. Cursor|"
+      "requires": "|Ice Skate| OR ({PropellerBox(Slipskate Slope)} AND |Boost (Propeller Box)|) OR |Bowser Jr. Cursor|",
+      "victory": false
     },
     {
       "name": "Slipskate Slope - Blast the Fury Blocks",
@@ -216,7 +217,7 @@
       "category": [
         "Clawswipe Colosseum"
       ],
-      "requires": "(|Ground Pound| AND |Plessie|) OR ((|Super Bell| OR |Lucky Bell|) AND |Climb (Cat)|) OR (|Propeller Box| AND |Boost (Propeller Box)| AND (((|Scamper Shores|) OR (|Pounce Bounce Isle| AND |Ground Pound|)) OR (|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND ((|Slipskate Slope| AND |Ice Skate|) OR (|Crisp Climb Castle|)))))"
+      "requires": "|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|)"
     },
     {
       "name": "Clawswipe Colosseum - Final Bout with Cat Boom Boom",
@@ -224,7 +225,7 @@
       "category": [
         "Clawswipe Colosseum"
       ],
-      "requires": "(|Ground Pound| AND |Plessie|) OR ((|Super Bell| OR |Lucky Bell|) AND |Climb (Cat)|) OR (|Propeller Box| AND |Boost (Propeller Box)| AND (((|Scamper Shores|) OR (|Pounce Bounce Isle| AND |Ground Pound|)) OR (|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND ((|Slipskate Slope| AND |Ice Skate|) OR (|Crisp Climb Castle|)))))"
+      "requires": "(|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|)) and |Carry/Throw|"
     },
     {
       "name": "Clawswipe Colosseum - Five Cat Shine Shards",
@@ -232,7 +233,7 @@
       "category": [
         "Clawswipe Colosseum"
       ],
-      "requires": "((|Ground Pound| AND |Plessie|) OR ((|Super Bell| OR |Lucky Bell|) AND |Climb (Cat)|) OR (|Propeller Box| AND |Boost (Propeller Box)| AND (((|Scamper Shores|) OR (|Pounce Bounce Isle| AND |Ground Pound|)) OR (|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND ((|Slipskate Slope| AND |Ice Skate|) OR (|Crisp Climb Castle|)))))) AND ((|Propeller Box| AND |Boost (Propeller Box)| AND (((|Scamper Shores|) OR (|Pounce Bounce Isle| AND |Ground Pound|)) OR (|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND ((|Slipskate Slope| AND |Ice Skate|) OR (|Crisp Climb Castle|))))) OR |Climb| OR |Bowser Jr. Cursor|)"
+      "requires": "(|Ground Pound| OR ((({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|)) AND |Carry/Throw| AND (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|)) AND (|Climb| OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|) OR |Bowser Jr. Cursor|)"
     },
     {
       "name": "Clawswipe Colosseum - Blast the Fury Blocks",
@@ -240,7 +241,7 @@
       "category": [
         "Clawswipe Colosseum"
       ],
-      "requires": "(|Ground Pound| AND |Plessie|) OR ((|Super Bell| OR |Lucky Bell|) AND |Climb (Cat)|) OR (|Propeller Box| AND |Boost (Propeller Box)| AND (((|Scamper Shores|) OR (|Pounce Bounce Isle| AND |Ground Pound|)) OR (|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND ((|Slipskate Slope| AND |Ice Skate|) OR (|Crisp Climb Castle|)))))"
+      "requires": "|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|)"
     },
     {
       "name": "Trickity Tower - So Close Yet So Far",
@@ -344,7 +345,7 @@
       "category": [
         "Ruins Area"
       ],
-      "requires": "|Plessie|"
+      "requires": "{Plessie()}"
     },
     {
       "name": "Ruins Area - Lost Kittens near the Ruins",
@@ -353,7 +354,7 @@
       "category": [
         "Ruins Area"
       ],
-      "requires": "|Carry/Throw| AND (|Plessie| OR ((|Super Bell| OR |Lucky Bell|) AND |Climb (Cat)|))"
+      "requires": "|Carry/Throw| AND ({Plessie()} OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|))"
     },
     {
       "name": "Ruins Area - Dash and Smash in the Clouds",
@@ -361,7 +362,7 @@
       "category": [
         "Ruins Area"
       ],
-      "requires": "|Climb| OR (|Propeller Box| AND |Boost (Propeller Box)| AND (((|Scamper Shores|) OR (|Pounce Bounce Isle| AND |Ground Pound|)) OR (|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND ((|Slipskate Slope| AND |Ice Skate|) OR (|Crisp Climb Castle|)))))"
+      "requires": "|Climb| OR ({PropellerBox(Ruins Area)} AND |Boost (Propeller Box)|)"
     },
     {
       "name": "Ruins Area - Ruins Rabbit Plays Tag",
@@ -369,7 +370,7 @@
       "category": [
         "Ruins Area"
       ],
-      "requires": "|Plessie| AND |Clawswipe Colosseum|"
+      "requires": "{Plessie()} AND |Clawswipe Colosseum|"
     },
     {
       "name": "Ruins Area - Go with the Floe",
@@ -385,7 +386,7 @@
       "category": [
         "Ruins Area"
       ],
-      "requires": "(|Propeller Box| AND |Boost (Propeller Box)| AND (((|Scamper Shores|) OR (|Pounce Bounce Isle| AND |Ground Pound|)) OR (|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND ((|Slipskate Slope| AND |Ice Skate|) OR (|Crisp Climb Castle|))))) AND |Plessie| AND |Crisp Climb Castle|"
+      "requires": "(|Propeller Box| AND |Boost (Propeller Box)|) AND {Plessie()} AND |Crisp Climb Castle|"
     },
     {
       "name": "Ruins Area - Slippery Skirmish",
@@ -489,7 +490,7 @@
       "category": [
         "Risky Whisker Island"
       ],
-      "requires": "|Carry/Throw| OR |Super Star|"
+      "requires": "|Carry/Throw| OR ({LuckyBell()} AND |Ground Pound|)"
     },
     {
       "name": "Risky Whisker Island - Hurry! Hop behind the Wall!",
@@ -497,7 +498,7 @@
       "category": [
         "Risky Whisker Island"
       ],
-      "requires": "(|Carry/Throw| OR |Super Star|) AND |Ground Pound|"
+      "requires": "|Carry/Throw| OR ({LuckyBell()} AND |Ground Pound|) AND |Ground Pound|"
     },
     {
       "name": "Risky Whisker Island - Five Cat Shine Shards",
@@ -561,7 +562,7 @@
       "category": [
         "Wasteland Area"
       ],
-      "requires": "|Ground Pound| AND (|Wall Jump| OR ((|Super Bell| OR |Lucky Bell|) AND |Climb (Cat)|))"
+      "requires": "|Ground Pound| AND (|Wall Jump| OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|))"
     },
     {
       "name": "Wasteland Area - On the Floodgate's Edge",
@@ -577,7 +578,7 @@
       "category": [
         "Wasteland Area"
       ],
-      "requires": "|Plessie| OR ((|Super Bell| OR |Lucky Bell|) and |Claw (Cat)|)"
+      "requires": "{Plessie()}"
     },
     {
       "name": "Wasteland Area - Gazing Over the Falls",
@@ -593,7 +594,7 @@
       "category": [
         "Wasteland Area"
       ],
-      "requires": "|Pipe Path Tower| AND |Plessie|"
+      "requires": "|Pipe Path Tower| AND {Plessie()}"
     },
     {
       "name": "Wasteland Area - Lost Kittens in the Wasteland",
@@ -601,7 +602,7 @@
       "category": [
         "Wasteland Area"
       ],
-      "requires": "|Carry/Throw| AND (|Plessie| OR ((|Super Bell| OR |Lucky Bell|) AND |Climb (Cat)|)) AND |Pipe Path Tower| AND |Risky Whisker Island| AND |Mount Magmeow|"
+      "requires": "|Carry/Throw| AND ({Plessie()} OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|)) AND |Pipe Path Tower| AND |Risky Whisker Island| AND |Mount Magmeow|"
     },
     {
       "name": "Wasteland Area - Footprint Free-for-all",
@@ -617,7 +618,7 @@
       "category": [
         "Wasteland Area"
       ],
-      "requires": "|Risky Whisker Island| AND (((|Super Bell| OR |Lucky Bell|) AND (|Claw (Cat)| OR |Pounce (Cat)|) AND |Climb (Cat)|) OR (|Propeller Box| AND |Boost (Propeller Box)| AND (((|Scamper Shores|) OR (|Pounce Bounce Isle| AND |Ground Pound|)) OR (|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND ((|Slipskate Slope| AND |Ice Skate|) OR (|Crisp Climb Castle|))))) OR (|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND |Plessie|))"
+      "requires": "|Risky Whisker Island| AND ((({SuperBell()} OR {LuckyBell()}) AND (|Claw (Cat)| OR |Pounce (Cat)|) AND |Climb (Cat)|) OR ({PropellerBox(Wasteland Area)} AND |Boost (Propeller Box)|) OR {Plessie()}"
     },
     {
       "name": "Wasteland Area - Wasteland Rabbit Plays Tag",
@@ -625,7 +626,7 @@
       "category": [
         "Wasteland Area"
       ],
-      "requires": "|Risky Whisker Island| AND |Pipe Path Tower| AND |Mount Magmeow| AND |Plessie|"
+      "requires": "|Risky Whisker Island| AND |Pipe Path Tower| AND |Mount Magmeow| AND {Plessie()}"
     },
     {
       "name": "Wasteland Area - Gazing Down at Lava",
@@ -633,7 +634,7 @@
       "category": [
         "Wasteland Area"
       ],
-      "requires": "|Risky Whisker Island| AND |Pipe Path Tower| AND ((|Super Bell| AND |Climb (Cat)|) OR (|Propeller Box| AND |Boost (Propeller Box)| AND (((|Scamper Shores|) OR (|Pounce Bounce Isle| AND |Ground Pound|)) OR (|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND ((|Slipskate Slope| AND |Ice Skate|) OR (|Crisp Climb Castle|))))))"
+      "requires": "|Risky Whisker Island| AND |Pipe Path Tower| AND |Mount Magmeow| AND ((({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Mount Magmeow)} AND |Boost (Propeller Box)|))"
     },
     {
       "name": "Wasteland Area - Suprise Prizefight",
@@ -649,7 +650,7 @@
       "category": [
         "Wasteland Area"
       ],
-      "requires": "(|Super Bell| AND (|Claw (Cat)| OR |Pounce (Cat)|)) OR (|Fire Flower| AND |Throw Fireballs (Fire)|) OR (|Super Leaf| AND |Tail Attack (Tanooki)|) OR (|Boomerang Flower| AND |Throw Boomerang (Boomerang)|) OR |Ground Pound| OR (|Crouch| AND |Roll|) OR (|Ground Pound| AND |Dive|) OR |Plessie|"
+      "requires": "(({SuperBell()} OR {LuckyBell()}) AND (|Claw (Cat)| OR |Pounce (Cat)|)) OR ({FireFlower()} AND |Throw Fireballs (Fire)|) OR ({SuperLeaf()} AND |Tail Attack (Tanooki)|) OR ({BoomerangFlower()} AND |Throw Boomerang (Boomerang)|) OR |Ground Pound| OR (|Crouch| AND |Roll|) OR (|Ground Pound| AND |Dive|) OR |Plessie|"
     },
     {
       "name": "Bowser Fight 1",
@@ -738,7 +739,7 @@
       "category": [
         "Pounce Bounce Isle"
       ],
-      "requires": "|Bowser Jr. Cursor| AND (|Ground Pound| OR ((|Super Bell| OR |Lucky Bell|) AND (|Climb (Cat)| OR |Dive (Cat)|)) OR (|Propeller Box| AND |Boost (Propeller Box)| AND (((|Scamper Shores|) OR (|Pounce Bounce Isle| AND |Ground Pound|)) OR (|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND ((|Slipskate Slope| AND |Ice Skate|) OR (|Crisp Climb Castle|))))) OR (|Fire Flower| AND |Throw Fireballs (Fire)|))"
+      "requires": "|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND (|Climb (Cat)| OR |Dive (Cat)|)) OR ({PropellerBox(Pounce Bounce Isle)} AND |Boost (Propeller Box)|) OR ({FireFlower()} AND |Throw Fireballs (Fire)|) OR {Plessie()}"
     },
     {
       "name": "Pounce Bounce Isle Golden Pipe Graffiti",
@@ -770,7 +771,7 @@
       "category": [
         "Clawswipe Colosseum"
       ],
-      "requires": "|Bowser Jr. Cursor| AND ((|Ground Pound| AND |Plessie|) OR ((|Super Bell| OR |Lucky Bell|) AND |Climb (Cat)|) OR (|Propeller Box| AND |Boost (Propeller Box)| AND (((|Scamper Shores|) OR (|Pounce Bounce Isle| AND |Ground Pound|)) OR (|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND ((|Slipskate Slope| AND |Ice Skate|) OR (|Crisp Climb Castle|))))))"
+      "requires": "(|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|)) and |Carry/Throw| AND |Bowser Jr. Cursor|"
     },
     {
       "name": "Trickity Tower Leaf Graffiti",
@@ -794,7 +795,7 @@
       "category": [
         "Crisp Climb Castle"
       ],
-      "requires": "|Bowser Jr. Cursor| AND (|Propeller Box| AND |Boost (Propeller Box)| AND (((|Scamper Shores|) OR (|Pounce Bounce Isle| AND |Ground Pound|)) OR (|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND ((|Slipskate Slope| AND |Ice Skate|) OR (|Crisp Climb Castle|))))) "
+      "requires": "|Bowser Jr. Cursor| AND (|Propeller Box| AND |Boost (Propeller Box)|)"
     },
     {
       "name": "Crisp Climb Castle Golden Pipe Graffiti",
@@ -802,7 +803,7 @@
       "category": [
         "Crisp Climb Castle"
       ],
-      "requires": "|Bowser Jr. Cursor| AND (|Propeller Box| AND |Boost (Propeller Box)| AND (((|Scamper Shores|) OR (|Pounce Bounce Isle| AND |Ground Pound|)) OR (|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND ((|Slipskate Slope| AND |Ice Skate|) OR (|Crisp Climb Castle|))))) "
+      "requires": "|Bowser Jr. Cursor| AND (|Propeller Box| AND |Boost (Propeller Box)|)"
     },
     {
       "name": "Ruins Area Leaf Graffiti",
