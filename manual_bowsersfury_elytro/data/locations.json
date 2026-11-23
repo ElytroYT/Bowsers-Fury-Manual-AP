@@ -5,909 +5,1021 @@
       "name": "Fur Step Island - Make the Lighthouse Shine",
       "region": "Fur Step Island",
       "category": [
-        "Fur Step Island"
+        "00 Fur Step Island"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-00-001"
     },
     {
       "name": "Scamper Shores - Make the Lighthouse Shine",
       "region": "Scamper Shores",
       "category": [
-        "Scamper Shores"
+        "01 Scamper Shores"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-01-001"
     },
     {
       "name": "Scamper Shores - Fury Shadow by the Shore",
       "region": "Scamper Shores",
       "category": [
-        "Scamper Shores"
+        "01 Scamper Shores"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-01-002"
     },
     {
       "name": "Scamper Shores - Key to the Cat Shine",
       "region": "Scamper Shores",
       "category": [
-        "Scamper Shores"
+        "01 Scamper Shores"
       ],
-      "requires": "|Carry/Throw|"
+      "requires": "|Carry/Throw|",
+      "sort-key": "row-01-003"
     },
     {
       "name": "Scamper Shores - Five Cat Shine Shards",
       "region": "Scamper Shores",
       "category": [
-        "Scamper Shores"
+        "01 Scamper Shores"
       ],
-      "requires": "({PropellerBox(Scamper Shores)} AND |Boost (Propeller Box)|) OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR |Bowser Jr. Cursor|"
+      "requires": "({PropellerBox(Scamper Shores)} AND |Boost (Propeller Box)|) OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR |Bowser Jr. Cursor|",
+      "sort-key": "row-01-004"
     },
     {
       "name": "Scamper Shores - Blast the Fury Blocks",
       "region": "Scamper Shores",
       "category": [
-        "Scamper Shores"
+        "01 Scamper Shores"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-01-005"
     },
     {
       "name": "Fort Flaptrap - Bully the Cat Bullies",
       "region": "Fort Flaptrap",
       "victory": false,
       "category": [
-        "Fort Flaptrap"
+        "02 Fort Flaptrap"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-02-001"
     },
     {
       "name": "Fort Flaptrap - Blue Coin Bustle",
       "region": "Fort Flaptrap",
       "category": [
-        "Fort Flaptrap"
+        "02 Fort Flaptrap"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-02-002"
     },
     {
       "name": "Fort Flaptrap - Show's Over Cat Magikoopas",
       "region": "Fort Flaptrap",
       "category": [
-        "Fort Flaptrap"
+        "02 Fort Flaptrap"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-02-003"
     },
     {
       "name": "Fort Flaptrap - Five Cat Shine Shards",
       "region": "Fort Flaptrap",
       "category": [
-        "Fort Flaptrap"
+        "02 Fort Flaptrap"
       ],
-      "requires": "(|Climb| OR ({PropellerBox(Fort Flaptrap)} AND |Boost (Propeller Box)|) OR |Bowser Jr. Cursor| OR {Plessie()}) AND ((|Crouch| AND |Roll|) OR (({SuperBell()} OR {LuckyBell()}) AND (|Claw (Cat)| OR |Pounce (Cat)|)) OR ({BoomerangFlower()} AND |Throw Boomerang (Boomerang)|) OR ({SuperLeaf()} AND |Tail Attack (Tanooki)|) OR {Plessie()})"
+      "requires": "(|Climb| OR ({PropellerBox(Fort Flaptrap)} AND |Boost (Propeller Box)|) OR |Bowser Jr. Cursor| OR {Plessie()}) AND ((|Crouch| AND |Roll|) OR (({SuperBell()} OR {LuckyBell()}) AND (|Claw (Cat)| OR |Pounce (Cat)|)) OR ({BoomerangFlower()} AND |Throw Boomerang (Boomerang)|) OR ({SuperLeaf()} AND |Tail Attack (Tanooki)|) OR {Plessie()})",
+      "sort-key": "row-02-004"
     },
     {
       "name": "Fort Flaptrap - Blast the Fury Blocks",
       "region": "Fort Flaptrap",
       "category": [
-        "Fort Flaptrap"
+        "02 Fort Flaptrap"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-02-005"
     },
     {
       "name": "Pounce Bounce Isle - Make the Lighthouse Shine",
       "region": "Pounce Bounce Isle",
       "category": [
-        "Pounce Bounce Isle"
+        "03 Pounce Bounce Isle"
       ],
-      "requires": "|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND (|Climb (Cat)| OR |Dive (Cat)|)) OR ({PropellerBox(Pounce Bounce Isle)} AND |Boost (Propeller Box)|) OR ({FireFlower()} AND |Throw Fireballs (Fire)|) OR {Plessie()}"
+      "requires": "|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND (|Climb (Cat)| OR |Dive (Cat)|)) OR ({PropellerBox(Pounce Bounce Isle)} AND |Boost (Propeller Box)|) OR ({FireFlower()} AND |Throw Fireballs (Fire)|) OR {Plessie()}",
+      "sort-key": "row-03-001"
     },
     {
       "name": "Pounce Bounce Isle - Hurry! Jump High, Jump Fast!",
       "region": "Pounce Bounce Isle",
       "category": [
-        "Pounce Bounce Isle"
+        "03 Pounce Bounce Isle"
       ],
-      "requires": "|Ground Pound|"
+      "requires": "|Ground Pound|",
+      "sort-key": "row-03-002"
     },
     {
       "name": "Pounce Bounce Isle - Key to the Cat Shine",
       "region": "Pounce Bounce Isle",
       "category": [
-        "Pounce Bounce Isle"
+        "03 Pounce Bounce Isle"
       ],
-      "requires": "|Ground Pound| AND |Carry/Throw|"
+      "requires": "|Ground Pound| AND |Carry/Throw|",
+      "sort-key": "row-03-003"
     },
     {
       "name": "Pounce Bounce Isle - Five Cat Shine Shards",
       "region": "Pounce Bounce Isle",
       "category": [
-        "Pounce Bounce Isle"
+        "03 Pounce Bounce Isle"
       ],
-      "requires": "|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND (|Climb (Cat)| OR |Dive (Cat)|)) OR ({PropellerBox(Pounce Bounce Isle)} AND |Boost (Propeller Box)|) OR ({FireFlower()} AND |Throw Fireballs (Fire)|) OR {Plessie()}"
+      "requires": "|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND (|Climb (Cat)| OR |Dive (Cat)|)) OR ({PropellerBox(Pounce Bounce Isle)} AND |Boost (Propeller Box)|) OR ({FireFlower()} AND |Throw Fireballs (Fire)|) OR {Plessie()}",
+      "sort-key": "row-03-004"
     },
     {
       "name": "Pounce Bounce Isle - Blast the Fury Blocks",
       "region": "Pounce Bounce Isle",
       "category": [
-        "Pounce Bounce Isle"
+        "03 Pounce Bounce Isle"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-03-005"
     },
     {
       "name": "Lakeside Area - Lost Kitten by the Shore",
       "region": "Lakeside Area",
       "category": [
-        "Lakeside Area"
+        "04 Lakeside Area"
       ],
-      "requires": "|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND (|Carry/Throw| OR ({SuperBell()} OR {LuckyBell()}))"
+      "requires": "|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND (|Carry/Throw| OR ({SuperBell()} OR {LuckyBell()}))",
+      "sort-key": "row-04-001"
     },
     {
       "name": "Lakeside Area - Shoreside Rabbit Plays Tag",
       "region": "Lakeside Area",
       "category": [
-        "Lakeside Area"
+        "04 Lakeside Area"
       ],
-      "requires": "|Cat Shine:20| AND (|Giga Bell| AND |Claw (Cat)|) AND |Plessie| AND |Ruins Area|"
+      "requires": "|Cat Shine:20| AND (|Giga Bell| AND |Claw (Cat)|) AND |Plessie| AND |Ruins Area|",
+      "sort-key": "row-04-002"
     },
     {
       "name": "Lakeside Area - Climb to the Shine",
       "region": "Lakeside Area",
       "category": [
-        "Lakeside Area"
+        "04 Lakeside Area"
       ],
-      "requires": "|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND (|Climb (Cat)| OR |Dive (Cat)|)) OR ({PropellerBox(Pounce Bounce Isle)} AND |Boost (Propeller Box)|) OR ({FireFlower()} AND |Throw Fireballs (Fire)|) OR {Plessie()} AND ((({SuperBell()} OR {LuckyBell()}) AND (|Claw (Cat)| OR |Pounce (Cat)|) AND |Climb (Cat)|) OR ({PropellerBox(Lakeside Area)} AND |Boost (Propeller Box)|) OR {Plessie()}"
+      "requires": "|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND (|Climb (Cat)| OR |Dive (Cat)|)) OR ({PropellerBox(Pounce Bounce Isle)} AND |Boost (Propeller Box)|) OR ({FireFlower()} AND |Throw Fireballs (Fire)|) OR {Plessie()} AND ((({SuperBell()} OR {LuckyBell()}) AND (|Claw (Cat)| OR |Pounce (Cat)|) AND |Climb (Cat)|) OR ({PropellerBox(Lakeside Area)} AND |Boost (Propeller Box)|) OR {Plessie()}",
+      "sort-key": "row-04-003"
     },
     {
       "name": "Lakeside Area - Hurry! Dash and Dive!",
       "region": "Lakeside Area",
       "category": [
-        "Lakeside Area"
+        "04 Lakeside Area"
       ],
-      "requires": "|Cat Shine:20| AND (|Giga Bell| AND |Claw (Cat)|) AND |Plessie| AND |Ruins Area|"
+      "requires": "|Cat Shine:20| AND (|Giga Bell| AND |Claw (Cat)|) AND |Plessie| AND |Ruins Area|",
+      "sort-key": "row-04-004"
     },
     {
       "name": "Slipskate Slope - Make the Lighthouse Shine",
       "region": "Slipskate Slope",
       "category": [
-        "Slipskate Slope"
+        "05 Slipskate Slope"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-05-001"
     },
     {
       "name": "Slipskate Slope - Blue Coin Bustle",
       "region": "Slipskate Slope",
       "category": [
-        "Slipskate Slope"
+        "05 Slipskate Slope"
       ],
-      "requires": "|Ice Skate|"
+      "requires": "|Ice Skate|",
+      "sort-key": "row-05-002"
     },
     {
       "name": "Slipskate Slope - Key to the Cat Shine",
       "region": "Slipskate Slope",
       "category": [
-        "Slipskate Slope"
+        "05 Slipskate Slope"
       ],
-      "requires": "|Ice Skate| AND |Carry/Throw|"
+      "requires": "|Ice Skate| AND |Carry/Throw|",
+      "sort-key": "row-05-003"
     },
     {
       "name": "Slipskate Slope - Five Cat Shine Shards",
       "region": "Slipskate Slope",
       "category": [
-        "Slipskate Slope"
+        "05 Slipskate Slope"
       ],
       "requires": "|Ice Skate| OR ({PropellerBox(Slipskate Slope)} AND |Boost (Propeller Box)|) OR |Bowser Jr. Cursor|",
-      "victory": false
+      "sort-key": "row-05-004"
     },
     {
       "name": "Slipskate Slope - Blast the Fury Blocks",
       "region": "Slipskate Slope",
       "category": [
-        "Slipskate Slope"
+        "05 Slipskate Slope"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-05-005"
     },
     {
       "name": "Clawswipe Colosseum - Clash with Cat Boom Boom",
       "region": "Clawswipe Colosseum",
       "category": [
-        "Clawswipe Colosseum"
+        "06 Clawswipe Colosseum"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-06-001"
     },
     {
       "name": "Clawswipe Colosseum - Cat Pom Pom's Counterattack",
       "region": "Clawswipe Colosseum",
       "category": [
-        "Clawswipe Colosseum"
+        "06 Clawswipe Colosseum"
       ],
-      "requires": "|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|)"
+      "requires": "|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|)",
+      "sort-key": "row-06-002"
     },
     {
       "name": "Clawswipe Colosseum - Final Bout with Cat Boom Boom",
       "region": "Clawswipe Colosseum",
       "category": [
-        "Clawswipe Colosseum"
+        "06 Clawswipe Colosseum"
       ],
-      "requires": "(|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|)) and |Carry/Throw|"
+      "requires": "(|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|)) and |Carry/Throw|",
+      "sort-key": "row-06-003"
     },
     {
       "name": "Clawswipe Colosseum - Five Cat Shine Shards",
       "region": "Clawswipe Colosseum",
       "category": [
-        "Clawswipe Colosseum"
+        "06 Clawswipe Colosseum"
       ],
-      "requires": "(|Ground Pound| OR ((({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|)) AND |Carry/Throw| AND (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|)) AND (|Climb| OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|) OR |Bowser Jr. Cursor|)"
+      "requires": "(|Ground Pound| OR ((({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|)) AND |Carry/Throw| AND (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|)) AND (|Climb| OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|) OR |Bowser Jr. Cursor|)",
+      "sort-key": "row-06-004"
     },
     {
       "name": "Clawswipe Colosseum - Blast the Fury Blocks",
       "region": "Clawswipe Colosseum",
       "category": [
-        "Clawswipe Colosseum"
+        "06 Clawswipe Colosseum"
       ],
-      "requires": "|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|)"
+      "requires": "|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|)",
+      "sort-key": "row-06-005"
     },
     {
       "name": "Trickity Tower - So Close Yet So Far",
       "region": "Trickity Tower",
       "category": [
-        "Trickity Tower"
+        "07 Trickity Tower"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-07-001"
     },
     {
       "name": "Trickity Tower - Blue Coin Bustle",
       "region": "Trickity Tower",
       "category": [
-        "Trickity Tower"
+        "07 Trickity Tower"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-07-002"
     },
     {
       "name": "Trickity Tower - Hurry! Watch Your Step!",
       "region": "Trickity Tower",
       "category": [
-        "Trickity Tower"
+        "07 Trickity Tower"
       ],
-      "requires": "|Ground Pound|"
+      "requires": "|Ground Pound|",
+      "sort-key": "row-07-003"
     },
     {
       "name": "Trickity Tower - Five Cat Shine Shards",
       "region": "Trickity Tower",
       "category": [
-        "Trickity Tower"
+        "07 Trickity Tower"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-07-004"
     },
     {
       "name": "Trickity Tower - Blast the Fury Blocks",
       "region": "Trickity Tower",
       "category": [
-        "Trickity Tower"
+        "07 Trickity Tower"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-07-005"
     },
     {
       "name": "Crisp Climb Castle - Make the Lighthouse Shine",
       "region": "Crisp Climb Castle",
       "category": [
-        "Crisp Climb Castle"
+        "08 Crisp Climb Castle"
       ],
-      "requires": "(|Propeller Box| AND |Boost (Propeller Box)|) "
+      "requires": "(|Propeller Box| AND |Boost (Propeller Box)|)",
+      "sort-key": "row-08-001"
     },
     {
       "name": "Crisp Climb Castle - Hurry! Fly through the Frost!",
       "region": "Crisp Climb Castle",
       "category": [
-        "Crisp Climb Castle"
+        "08 Crisp Climb Castle"
       ],
-      "requires": "(|Propeller Box| AND |Boost (Propeller Box)|) AND |Ground Pound|"
+      "requires": "(|Propeller Box| AND |Boost (Propeller Box)|) AND |Ground Pound|",
+      "sort-key": "row-08-002"
     },
     {
       "name": "Crisp Climb Castle - Fury Shadow on Ice",
       "region": "Crisp Climb Castle",
       "category": [
-        "Crisp Climb Castle"
+        "08 Crisp Climb Castle"
       ],
-      "requires": "(|Propeller Box| AND |Boost (Propeller Box)|) AND |Ground Pound|"
+      "requires": "(|Propeller Box| AND |Boost (Propeller Box)|) AND |Ground Pound|",
+      "sort-key": "row-08-003"
     },
     {
       "name": "Crisp Climb Castle - Five Cat Shine Shards",
       "region": "Crisp Climb Castle",
       "category": [
-        "Crisp Climb Castle"
+        "08 Crisp Climb Castle"
       ],
-      "requires": "(|Propeller Box| AND |Boost (Propeller Box)|) "
+      "requires": "(|Propeller Box| AND |Boost (Propeller Box)|)",
+      "sort-key": "row-08-004"
     },
     {
       "name": "Crisp Climb Castle - Blast the Fury Blocks",
       "region": "Crisp Climb Castle",
       "category": [
-        "Crisp Climb Castle"
+        "08 Crisp Climb Castle"
       ],
-      "requires": "(|Propeller Box| AND |Boost (Propeller Box)|) "
+      "requires": "(|Propeller Box| AND |Boost (Propeller Box)|)",
+      "sort-key": "row-08-005"
     },
     {
       "name": "Ruins Area - Cold Cove Combat",
       "region": "Ruins Area",
       "category": [
-        "Ruins Area"
+        "09 Ruins Area"
       ],
-      "requires": "|Ground Pound|"
+      "requires": "|Ground Pound|",
+      "sort-key": "row-09-001"
     },
     {
       "name": "Ruins Area - Gazing Down at the Islands",
       "region": "Ruins Area",
       "category": [
-        "Ruins Area"
+        "09 Ruins Area"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-09-002"
     },
     {
       "name": "Ruins Area - Hurry! Swim and Slide!",
       "region": "Ruins Area",
       "category": [
-        "Ruins Area"
+        "09 Ruins Area"
       ],
-      "requires": "{Plessie()}"
+      "requires": "{Plessie()}",
+      "sort-key": "row-09-003"
     },
     {
       "name": "Ruins Area - Lost Kittens near the Ruins",
       "region": "Ruins Area",
       "victory": false,
       "category": [
-        "Ruins Area"
+        "09 Ruins Area"
       ],
-      "requires": "|Carry/Throw| AND ({Plessie()} OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|))"
+      "requires": "|Carry/Throw| AND ({Plessie()} OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|))",
+      "sort-key": "row-09-004"
     },
     {
       "name": "Ruins Area - Dash and Smash in the Clouds",
       "region": "Ruins Area",
       "category": [
-        "Ruins Area"
+        "09 Ruins Area"
       ],
-      "requires": "|Climb| OR ({PropellerBox(Ruins Area)} AND |Boost (Propeller Box)|)"
+      "requires": "|Climb| OR ({PropellerBox(Ruins Area)} AND |Boost (Propeller Box)|)",
+      "sort-key": "row-09-005"
     },
     {
       "name": "Ruins Area - Ruins Rabbit Plays Tag",
       "region": "Ruins Area",
       "category": [
-        "Ruins Area"
+        "09 Ruins Area"
       ],
-      "requires": "{Plessie()} AND |Clawswipe Colosseum|"
+      "requires": "{Plessie()} AND |Clawswipe Colosseum|",
+      "sort-key": "row-09-006"
     },
     {
       "name": "Ruins Area - Go with the Floe",
       "region": "Ruins Area",
       "category": [
-        "Ruins Area"
+        "09 Ruins Area"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-09-007"
     },
     {
       "name": "Ruins Area - Hurry! Slide through the Sky!",
       "region": "Ruins Area",
       "category": [
-        "Ruins Area"
+        "09 Ruins Area"
       ],
-      "requires": "(|Propeller Box| AND |Boost (Propeller Box)|) AND {Plessie()} AND |Crisp Climb Castle|"
+      "requires": "(|Propeller Box| AND |Boost (Propeller Box)|) AND {Plessie()} AND |Crisp Climb Castle|",
+      "sort-key": "row-09-008"
     },
     {
       "name": "Ruins Area - Slippery Skirmish",
       "region": "Ruins Area",
       "category": [
-        "Ruins Area"
+        "09 Ruins Area"
       ],
-      "requires": "|Ground Pound|"
+      "requires": "|Ground Pound|",
+      "sort-key": "row-09-009"
     },
     {
       "name": "Roiling Roller Isle - Make the Lighthouse Shine",
       "region": "Roiling Roller Isle",
       "category": [
-        "Roiling Roller Isle"
+        "10 Roiling Roller Isle"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-10-001"
     },
     {
       "name": "Roiling Roller Isle - Hurry! Hot Cross Run!",
       "region": "Roiling Roller Isle",
       "category": [
-        "Roiling Roller Isle"
+        "10 Roiling Roller Isle"
       ],
-      "requires": "|Ground Pound|"
+      "requires": "|Ground Pound|",
+      "sort-key": "row-10-002"
     },
     {
       "name": "Roiling Roller Isle - Key to the Cat Shine",
       "region": "Roiling Roller Isle",
       "category": [
-        "Roiling Roller Isle"
+        "10 Roiling Roller Isle"
       ],
-      "requires": "|Carry/Throw| AND |Ground Pound|"
+      "requires": "|Carry/Throw| AND |Ground Pound|",
+      "sort-key": "row-10-003"
     },
     {
       "name": "Roiling Roller Isle - Five Cat Shine Shards",
       "region": "Roiling Roller Isle",
       "category": [
-        "Roiling Roller Isle"
+        "10 Roiling Roller Isle"
       ],
-      "requires": "|Carry/Throw|"
+      "requires": "|Carry/Throw|",
+      "sort-key": "row-10-004"
     },
     {
       "name": "Roiling Roller Isle - Blast the Fury Blocks",
       "region": "Roiling Roller Isle",
       "category": [
-        "Roiling Roller Isle"
+        "10 Roiling Roller Isle"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-10-005"
     },
     {
       "name": "Pipe Path Tower - Make the Lighthouse Shine",
       "region": "Pipe Path Tower",
       "category": [
-        "Pipe Path Tower"
+        "11 Pipe Path Tower"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-11-001"
     },
     {
       "name": "Pipe Path Tower - Blue Coin Bustle",
       "region": "Pipe Path Tower",
       "category": [
-        "Pipe Path Tower"
+        "11 Pipe Path Tower"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-11-002"
     },
     {
       "name": "Pipe Path Tower - Key to the Cat Shine",
       "region": "Pipe Path Tower",
       "category": [
-        "Pipe Path Tower"
+        "11 Pipe Path Tower"
       ],
-      "requires": "|Carry/Throw|"
+      "requires": "|Carry/Throw|",
+      "sort-key": "row-11-003"
     },
     {
       "name": "Pipe Path Tower - Five Cat Shine Shards",
       "region": "Pipe Path Tower",
       "category": [
-        "Pipe Path Tower"
+        "11 Pipe Path Tower"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-11-004"
     },
     {
       "name": "Pipe Path Tower - Blast the Fury Blocks",
       "region": "Pipe Path Tower",
       "category": [
-        "Pipe Path Tower"
+        "11 Pipe Path Tower"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-11-005"
     },
     {
       "name": "Risky Whisker Island - Fury Shadow Hops to It",
       "region": "Risky Whisker Island",
       "category": [
-        "Risky Whisker Island"
+        "12 Risky Whisker Island"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-12-001"
     },
     {
       "name": "Risky Whisker Island - Feasting on Fuzzies",
       "region": "Risky Whisker Island",
       "category": [
-        "Risky Whisker Island"
+        "12 Risky Whisker Island"
       ],
-      "requires": "|Carry/Throw| OR ({LuckyBell()} AND |Ground Pound|)"
+      "requires": "|Carry/Throw| OR ({LuckyBell()} AND |Ground Pound|)",
+      "sort-key": "row-12-002"
     },
     {
       "name": "Risky Whisker Island - Hurry! Hop behind the Wall!",
       "region": "Risky Whisker Island",
       "category": [
-        "Risky Whisker Island"
+        "12 Risky Whisker Island"
       ],
-      "requires": "|Carry/Throw| OR ({LuckyBell()} AND |Ground Pound|) AND |Ground Pound|"
+      "requires": "|Carry/Throw| OR ({LuckyBell()} AND |Ground Pound|) AND |Ground Pound|",
+      "sort-key": "row-12-003"
     },
     {
       "name": "Risky Whisker Island - Five Cat Shine Shards",
       "region": "Risky Whisker Island",
       "category": [
-        "Risky Whisker Island"
+        "12 Risky Whisker Island"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-12-004"
     },
     {
       "name": "Risky Whisker Island - Blast the Fury Blocks",
       "region": "Risky Whisker Island",
       "category": [
-        "Risky Whisker Island"
+        "12 Risky Whisker Island"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-12-005"
     },
     {
       "name": "Mount Magmeow - Back Off, Cat Prince Bully!",
       "region": "Mount Magmeow",
       "category": [
-        "Mount Magmeow"
+        "13 Mount Magmeow"
       ],
-      "requires": "|Risky Whisker Island| AND |Pipe Path Tower|"
+      "requires": "|Risky Whisker Island| AND |Pipe Path Tower|",
+      "sort-key": "row-13-001"
     },
     {
       "name": "Mount Magmeow - Atop Mount Magmeow",
       "region": "Mount Magmeow",
       "category": [
-        "Mount Magmeow"
+        "13 Mount Magmeow"
       ],
-      "requires": "|Risky Whisker Island| AND |Pipe Path Tower|"
+      "requires": "|Risky Whisker Island| AND |Pipe Path Tower|",
+      "sort-key": "row-13-002"
     },
     {
       "name": "Mount Magmeow - Hurry! Steer the Switchboards!",
       "region": "Mount Magmeow",
       "category": [
-        "Mount Magmeow"
+        "13 Mount Magmeow"
       ],
-      "requires": "|Risky Whisker Island| AND |Pipe Path Tower| AND |Ground Pound|"
+      "requires": "|Risky Whisker Island| AND |Pipe Path Tower| AND |Ground Pound|",
+      "sort-key": "row-13-003"
     },
     {
       "name": "Mount Magmeow - Five Cat Shine Shards",
       "region": "Mount Magmeow",
       "category": [
-        "Mount Magmeow"
+        "13 Mount Magmeow"
       ],
-      "requires": "|Risky Whisker Island| AND |Pipe Path Tower|"
+      "requires": "|Risky Whisker Island| AND |Pipe Path Tower|",
+      "sort-key": "row-13-004"
     },
     {
       "name": "Mount Magmeow - Blast the Fury Blocks",
       "region": "Mount Magmeow",
       "category": [
-        "Mount Magmeow"
+        "13 Mount Magmeow"
       ],
-      "requires": "|Risky Whisker Island| AND |Pipe Path Tower|"
+      "requires": "|Risky Whisker Island| AND |Pipe Path Tower|",
+      "sort-key": "row-13-005"
     },
     {
       "name": "Wasteland Area - Hurry! Climb the Falls!",
       "region": "Wasteland Area",
       "category": [
-        "Wasteland Area"
+        "14 Wasteland Area"
       ],
-      "requires": "|Ground Pound| AND (|Wall Jump| OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|))"
+      "requires": "|Ground Pound| AND (|Wall Jump| OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|))",
+      "sort-key": "row-14-001"
     },
     {
       "name": "Wasteland Area - On the Floodgate's Edge",
       "region": "Wasteland Area",
       "category": [
-        "Wasteland Area"
+        "14 Wasteland Area"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-14-002"
     },
     {
       "name": "Wasteland Area - Shining on a Hidden Isle",
       "region": "Wasteland Area",
       "category": [
-        "Wasteland Area"
+        "14 Wasteland Area"
       ],
-      "requires": "{Plessie()}"
+      "requires": "{Plessie()}",
+      "sort-key": "row-14-003"
     },
     {
       "name": "Wasteland Area - Gazing Over the Falls",
       "region": "Wasteland Area",
       "category": [
-        "Wasteland Area"
+        "14 Wasteland Area"
       ],
-      "requires": ""
+      "requires": "",
+      "sort-key": "row-14-004"
     },
     {
       "name": "Wasteland Area - Hurry! Slip to the Shine!",
       "region": "Wasteland Area",
       "category": [
-        "Wasteland Area"
+        "14 Wasteland Area"
       ],
-      "requires": "|Pipe Path Tower| AND {Plessie()}"
+      "requires": "|Pipe Path Tower| AND {Plessie()}",
+      "sort-key": "row-14-005"
     },
     {
       "name": "Wasteland Area - Lost Kittens in the Wasteland",
       "region": "Wasteland Area",
       "category": [
-        "Wasteland Area"
+        "14 Wasteland Area"
       ],
-      "requires": "|Carry/Throw| AND ({Plessie()} OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|)) AND |Pipe Path Tower| AND |Risky Whisker Island| AND |Mount Magmeow|"
+      "requires": "|Carry/Throw| AND ({Plessie()} OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|)) AND |Pipe Path Tower| AND |Risky Whisker Island| AND |Mount Magmeow|",
+      "sort-key": "row-14-006"
     },
     {
       "name": "Wasteland Area - Footprint Free-for-all",
       "region": "Wasteland Area",
       "category": [
-        "Wasteland Area"
+        "14 Wasteland Area"
       ],
-      "requires": "|Ground Pound|"
+      "requires": "|Ground Pound|",
+      "sort-key": "row-14-007"
     },
     {
       "name": "Wasteland Area - Spin, Scramble, Shine",
       "region": "Wasteland Area",
       "category": [
-        "Wasteland Area"
+        "14 Wasteland Area"
       ],
-      "requires": "|Risky Whisker Island| AND ((({SuperBell()} OR {LuckyBell()}) AND (|Claw (Cat)| OR |Pounce (Cat)|) AND |Climb (Cat)|) OR ({PropellerBox(Wasteland Area)} AND |Boost (Propeller Box)|) OR {Plessie()}"
+      "requires": "|Risky Whisker Island| AND ((({SuperBell()} OR {LuckyBell()}) AND (|Claw (Cat)| OR |Pounce (Cat)|) AND |Climb (Cat)|) OR ({PropellerBox(Wasteland Area)} AND |Boost (Propeller Box)|) OR {Plessie()}",
+      "sort-key": "row-14-008"
     },
     {
       "name": "Wasteland Area - Wasteland Rabbit Plays Tag",
       "region": "Wasteland Area",
       "category": [
-        "Wasteland Area"
+        "14 Wasteland Area"
       ],
-      "requires": "|Risky Whisker Island| AND |Pipe Path Tower| AND |Mount Magmeow| AND {Plessie()}"
+      "requires": "|Risky Whisker Island| AND |Pipe Path Tower| AND |Mount Magmeow| AND {Plessie()}",
+      "sort-key": "row-14-009"
     },
     {
       "name": "Wasteland Area - Gazing Down at Lava",
       "region": "Wasteland Area",
       "category": [
-        "Wasteland Area"
+        "14 Wasteland Area"
       ],
-      "requires": "|Risky Whisker Island| AND |Pipe Path Tower| AND |Mount Magmeow| AND ((({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Mount Magmeow)} AND |Boost (Propeller Box)|))"
+      "requires": "|Risky Whisker Island| AND |Pipe Path Tower| AND |Mount Magmeow| AND ((({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Mount Magmeow)} AND |Boost (Propeller Box)|))",
+      "sort-key": "row-14-010"
     },
     {
       "name": "Wasteland Area - Suprise Prizefight",
       "region": "Wasteland Area",
       "category": [
-        "Wasteland Area"
+        "14 Wasteland Area"
       ],
-      "requires": "|Ground Pound|"
+      "requires": "|Ground Pound|",
+      "sort-key": "row-14-011"
     },
     {
       "name": "Wasteland Area - Jump and Thump in the Clouds",
       "region": "Wasteland Area",
       "category": [
-        "Wasteland Area"
+        "14 Wasteland Area"
       ],
-      "requires": "(({SuperBell()} OR {LuckyBell()}) AND (|Claw (Cat)| OR |Pounce (Cat)|)) OR ({FireFlower()} AND |Throw Fireballs (Fire)|) OR ({SuperLeaf()} AND |Tail Attack (Tanooki)|) OR ({BoomerangFlower()} AND |Throw Boomerang (Boomerang)|) OR |Ground Pound| OR (|Crouch| AND |Roll|) OR (|Ground Pound| AND |Dive|) OR |Plessie|"
+      "requires": "(({SuperBell()} OR {LuckyBell()}) AND (|Claw (Cat)| OR |Pounce (Cat)|)) OR ({FireFlower()} AND |Throw Fireballs (Fire)|) OR ({SuperLeaf()} AND |Tail Attack (Tanooki)|) OR ({BoomerangFlower()} AND |Throw Boomerang (Boomerang)|) OR |Ground Pound| OR (|Crouch| AND |Roll|) OR (|Ground Pound| AND |Dive|) OR |Plessie|",
+      "sort-key": "row-14-012"
     },
     {
       "name": "Bowser Fight 1",
       "region": "Lakeside Area",
       "category": [
-        "Lakeside Area"
+        "04 Lakeside Area"
       ],
-      "requires": "(|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|))"
+      "requires": "(|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|))",
+      "sort-key": "row-14-013"
     },
     {
       "name": "Bowser Fight 2",
       "region": "Ruins Area",
       "category": [
-        "Ruins Area"
+        "09 Ruins Area"
       ],
-      "requires": "(|Cat Shine:15| AND (|Giga Bell| AND |Claw (Cat)|))"
+      "requires": "(|Cat Shine:15| AND (|Giga Bell| AND |Claw (Cat)|))",
+      "sort-key": "row-14-014"
     },
     {
       "name": "Bowser Fight 3",
       "region": "Ruins Area",
       "category": [
-        "Ruins Area"
+        "09 Ruins Area"
       ],
-      "requires": "(|Cat Shine:20| AND (|Giga Bell| AND |Claw (Cat)|))"
+      "requires": "(|Cat Shine:20| AND (|Giga Bell| AND |Claw (Cat)|))",
+      "sort-key": "row-14-015"
     },
     {
       "name": "Bowser Fight 4",
       "region": "Wasteland Area",
       "category": [
-        "Wasteland Area"
+        "14 Wasteland Area"
       ],
-      "requires": "(|Cat Shine:40| AND (|Giga Bell| AND |Claw (Cat)|))"
+      "requires": "(|Cat Shine:40| AND (|Giga Bell| AND |Claw (Cat)|))",
+      "sort-key": "row-14-016"
     },
     {
       "name": "Final Bowser Fight",
       "region": "Wasteland Area",
       "victory": true,
       "category": [
-        "Wasteland Area"
+        "14 Wasteland Area"
       ],
-      "requires": "(|Cat Shine:50| AND (|Giga Bell| AND |Claw (Cat)|)) AND |Plessie|"
+      "requires": "(|Cat Shine:50| AND (|Giga Bell| AND |Claw (Cat)|)) AND |Plessie|",
+      "sort-key": "row-14-017"
     },
     {
       "name": "Scamper Shores Mushroom Graffiti",
       "region": "Scamper Shores",
       "category": [
-        "Scamper Shores"
+        "01 Scamper Shores"
       ],
-      "requires": "|Bowser Jr. Cursor|"
+      "requires": "|Bowser Jr. Cursor|",
+      "sort-key": "row-01-006"
     },
     {
       "name": "Scamper Shores Fire Flower Graffiti",
       "region": "Scamper Shores",
       "category": [
-        "Scamper Shores"
+        "01 Scamper Shores"
       ],
-      "requires": "|Bowser Jr. Cursor|"
+      "requires": "|Bowser Jr. Cursor|",
+      "sort-key": "row-01-007"
     },
     {
       "name": "Fort Flaptrap Mushroom Graffiti",
       "region": "Fort Flaptrap",
       "category": [
-        "Fort Flaptrap"
+        "02 Fort Flaptrap"
       ],
-      "requires": "|Bowser Jr. Cursor|"
+      "requires": "|Bowser Jr. Cursor|",
+      "sort-key": "row-02-006"
     },
     {
       "name": "Fort Flaptrap Bell Graffiti",
       "region": "Fort Flaptrap",
       "category": [
-        "Fort Flaptrap"
+        "02 Fort Flaptrap"
       ],
-      "requires": "|Bowser Jr. Cursor|"
+      "requires": "|Bowser Jr. Cursor|",
+      "sort-key": "row-02-007"
     },
     {
       "name": "Pounce Bounce Isle Lucky Bell Graffiti",
       "region": "Pounce Bounce Isle",
       "category": [
-        "Pounce Bounce Isle"
+        "03 Pounce Bounce Isle"
       ],
-      "requires": "|Bowser Jr. Cursor|"
+      "requires": "|Bowser Jr. Cursor|",
+      "sort-key": "row-03-006"
     },
     {
       "name": "Pounce Bounce Isle Boomerang Graffiti",
       "region": "Pounce Bounce Isle",
       "category": [
-        "Pounce Bounce Isle"
+        "03 Pounce Bounce Isle"
       ],
-      "requires": "|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND (|Climb (Cat)| OR |Dive (Cat)|)) OR ({PropellerBox(Pounce Bounce Isle)} AND |Boost (Propeller Box)|) OR ({FireFlower()} AND |Throw Fireballs (Fire)|) OR {Plessie()}"
+      "requires": "(|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND (|Climb (Cat)| OR |Dive (Cat)|)) OR ({PropellerBox(Pounce Bounce Isle)} AND |Boost (Propeller Box)|) OR ({FireFlower()} AND |Throw Fireballs (Fire)|) OR {Plessie()}) AND |Bowser Jr. Cursor|",
+      "sort-key": "row-03-007"
     },
     {
       "name": "Pounce Bounce Isle Golden Pipe Graffiti",
       "region": "Pounce Bounce Isle",
       "category": [
-        "Pounce Bounce Isle"
+        "03 Pounce Bounce Isle"
       ],
-      "requires": "|Bowser Jr. Cursor|"
+      "requires": "|Bowser Jr. Cursor|",
+      "sort-key": "row-03-008"
     },
     {
       "name": "Slipskate Slope Mushroom Graffiti",
       "region": "Slipskate Slope",
       "category": [
-        "Slipskate Slope"
+        "05 Slipskate Slope"
       ],
-      "requires": "|Bowser Jr. Cursor|"
+      "requires": "|Bowser Jr. Cursor|",
+      "sort-key": "row-05-006"
     },
     {
       "name": "Clawswipe Colosseum Fire Flower Graffiti",
       "region": "Clawswipe Colosseum",
       "category": [
-        "Clawswipe Colosseum"
+        "06 Clawswipe Colosseum"
       ],
-      "requires": "|Bowser Jr. Cursor|"
+      "requires": "|Bowser Jr. Cursor|",
+      "sort-key": "row-06-006"
     },
     {
       "name": "Clawswipe Colosseum Bell Graffiti",
       "region": "Clawswipe Colosseum",
       "category": [
-        "Clawswipe Colosseum"
+        "06 Clawswipe Colosseum"
       ],
-      "requires": "(|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|)) and |Carry/Throw| AND |Bowser Jr. Cursor|"
+      "requires": "(|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|)) and |Carry/Throw| AND |Bowser Jr. Cursor|",
+      "sort-key": "row-06-007"
     },
     {
       "name": "Trickity Tower Leaf Graffiti",
       "region": "Trickity Tower",
       "category": [
-        "Trickity Tower"
+        "07 Trickity Tower"
       ],
-      "requires": "|Bowser Jr. Cursor|"
+      "requires": "|Bowser Jr. Cursor|",
+      "sort-key": "row-07-006"
     },
     {
       "name": "Crisp Climb Castle Fire Flower Graffiti",
       "region": "Crisp Climb Castle",
       "category": [
-        "Crisp Climb Castle"
+        "08 Crisp Climb Castle"
       ],
-      "requires": "|Bowser Jr. Cursor|"
+      "requires": "|Bowser Jr. Cursor|",
+      "sort-key": "row-08-006"
     },
     {
       "name": "Crisp Climb Castle Bell Graffiti",
       "region": "Crisp Climb Castle",
       "category": [
-        "Crisp Climb Castle"
+        "08 Crisp Climb Castle"
       ],
-      "requires": "|Bowser Jr. Cursor| AND (|Propeller Box| AND |Boost (Propeller Box)|)"
+      "requires": "|Bowser Jr. Cursor| AND (|Propeller Box| AND |Boost (Propeller Box)|)",
+      "sort-key": "row-08-007"
     },
     {
       "name": "Crisp Climb Castle Golden Pipe Graffiti",
       "region": "Crisp Climb Castle",
       "category": [
-        "Crisp Climb Castle"
+        "08 Crisp Climb Castle"
       ],
-      "requires": "|Bowser Jr. Cursor| AND (|Propeller Box| AND |Boost (Propeller Box)|)"
+      "requires": "|Bowser Jr. Cursor| AND (|Propeller Box| AND |Boost (Propeller Box)|)",
+      "sort-key": "row-08-008"
     },
     {
       "name": "Ruins Area Leaf Graffiti",
       "region": "Ruins Area",
       "category": [
-        "Ruins Area"
+        "09 Ruins Area"
       ],
-      "requires": "|Bowser Jr. Cursor|"
+      "requires": "|Bowser Jr. Cursor|",
+      "sort-key": "row-09-010"
     },
     {
       "name": "Ruins Area Boomerang Graffiti",
       "region": "Ruins Area",
       "category": [
-        "Ruins Area"
+        "09 Ruins Area"
       ],
-      "requires": "|Bowser Jr. Cursor|"
+      "requires": "|Bowser Jr. Cursor|",
+      "sort-key": "row-09-011"
     },
     {
       "name": "Roiling Roller Isle Bell Graffiti",
       "region": "Roiling Roller Isle",
       "category": [
-        "Roiling Roller Isle"
+        "10 Roiling Roller Isle"
       ],
-      "requires": "|Bowser Jr. Cursor|"
+      "requires": "|Bowser Jr. Cursor|",
+      "sort-key": "row-10-006"
     },
     {
       "name": "Roiling Roller Isle Golden Pipe Graffiti",
       "region": "Roiling Roller Isle",
       "category": [
-        "Roiling Roller Isle"
+        "10 Roiling Roller Isle"
       ],
-      "requires": "|Bowser Jr. Cursor|"
+      "requires": "|Bowser Jr. Cursor|",
+      "sort-key": "row-10-007"
     },
     {
       "name": "Pipe Path Tower Leaf Graffiti",
       "region": "Pipe Path Tower",
       "category": [
-        "Pipe Path Tower"
+        "11 Pipe Path Tower"
       ],
-      "requires": "|Bowser Jr. Cursor|"
+      "requires": "|Bowser Jr. Cursor|",
+      "sort-key": "row-11-006"
     },
     {
       "name": "Risky Whisker Island Bell Graffiti",
       "region": "Risky Whisker Island",
       "category": [
-        "Risky Whisker Island"
+        "12 Risky Whisker Island"
       ],
-      "requires": "|Bowser Jr. Cursor|"
+      "requires": "|Bowser Jr. Cursor|",
+      "sort-key": "row-12-006"
     },
     {
       "name": "Mount Magmeow Leaf Graffiti",
       "region": "Mount Magmeow",
       "category": [
-        "Mount Magmeow"
+        "13 Mount Magmeow"
       ],
-      "requires": "|Bowser Jr. Cursor| AND |Risky Whisker Island| AND |Pipe Path Tower|"
+      "requires": "|Bowser Jr. Cursor| AND |Risky Whisker Island| AND |Pipe Path Tower|",
+      "sort-key": "row-13-006"
     },
     {
       "name": "Mount Magmeow Boomerang Graffiti",
       "region": "Mount Magmeow",
       "category": [
-        "Mount Magmeow"
+        "13 Mount Magmeow"
       ],
-      "requires": "|Bowser Jr. Cursor| AND |Risky Whisker Island| AND |Pipe Path Tower|"
+      "requires": "|Bowser Jr. Cursor| AND |Risky Whisker Island| AND |Pipe Path Tower|",
+      "sort-key": "row-13-007"
     },
     {
       "name": "Mount Magmeow Lucky Bell Graffiti",
       "region": "Mount Magmeow",
       "category": [
-        "Mount Magmeow"
+        "13 Mount Magmeow"
       ],
-      "requires": "|Bowser Jr. Cursor| AND |Risky Whisker Island| AND |Pipe Path Tower|"
+      "requires": "|Bowser Jr. Cursor| AND |Risky Whisker Island| AND |Pipe Path Tower|",
+      "sort-key": "row-13-008"
     },
     {
       "name": "Mount Magmeow Golden Pipe Graffiti",
       "region": "Mount Magmeow",
       "category": [
-        "Mount Magmeow"
+        "13 Mount Magmeow"
       ],
-      "requires": "|Bowser Jr. Cursor| AND |Risky Whisker Island| AND |Pipe Path Tower|"
+      "requires": "|Bowser Jr. Cursor| AND |Risky Whisker Island| AND |Pipe Path Tower|",
+      "sort-key": "row-13-009"
     },
     {
       "name": "Wasteland Area Leaf Graffiti",
       "region": "Wasteland Area",
       "category": [
-        "Wasteland Area"
+        "14 Wasteland Area"
       ],
-      "requires": "|Bowser Jr. Cursor|"
+      "requires": "|Bowser Jr. Cursor|",
+      "sort-key": "row-14-018"
     },
     {
       "name": "Wasteland Area Fire Flower Graffiti",
       "region": "Wasteland Area",
       "category": [
-        "Wasteland Area"
+        "14 Wasteland Area"
       ],
-      "requires": "|Bowser Jr. Cursor|"
+      "requires": "|Bowser Jr. Cursor|",
+      "sort-key": "row-14-019"
     },
     {
       "name": "Wasteland Area Boomerang Graffiti",
       "region": "Wasteland Area",
       "category": [
-        "Wasteland Area"
+        "14 Wasteland Area"
       ],
-      "requires": "|Bowser Jr. Cursor|"
+      "requires": "|Bowser Jr. Cursor|",
+      "sort-key": "row-14-020"
     }
   ]
 }
