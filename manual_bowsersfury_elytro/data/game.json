@@ -3,6 +3,7 @@
   "game": "BowsersFury",
   "creator": "Elytro",
   "filler_item_name": "Coin",
+  "death_link": true,
   "starting_items": [
     {
       "items": [
@@ -32,6 +33,20 @@
         "Dive (Plessie)"
       ],
       "yaml_option": ["!plessie_abilities"]
+    },
+    {
+      "items": [
+        "Fury Shadows",
+        "Keys",
+        "Cat Shine Shards",
+        "P-Switches",
+        "Ground Pound Switches",
+        "Kittens",
+        "Rabbits",
+        "Plessie Rings",
+        "Clouds"
+      ],
+      "yaml_option": ["!level_elements"]
     }
   ]
 }

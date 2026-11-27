@@ -7,6 +7,7 @@
                 "type": "itemgrid",
                 "h_alignment": "left",
                 "item_v_alignment": "middle",
+                "item_h_alignment": "middle",
                 "item_margin": "1,1",
                 "item_size": "50",
                 "rows": [
@@ -54,7 +55,11 @@
                         "unlock_scamper_shores",
                         "unlock_fort_flaptrap",
                         "unlock_pounce_bounce_isle",
-                        "unlock_lakeside_area"
+                        "unlock_lakeside_area",
+                        "",
+                        "fury_shadows",
+                        "keys",
+                        "cat_shine_shards"
                     ],
                     [
                         "unlock_slipskate_slope",
@@ -63,6 +68,10 @@
                         "unlock_crisp_climb_castle",
                         "unlock_ruins_area",
                         "",
+                        "p-switches",
+                        "ground_pound_switches",
+                        "kittens",
+                        "",
                         "cat_shine"
                     ],
                     [
@@ -70,7 +79,11 @@
                         "unlock_pipe_path_tower",
                         "unlock_risky_whisker_island",
                         "unlock_mount_magmeow",
-                        "unlock_wasteland_area"
+                        "unlock_wasteland_area",
+                        "",
+                        "rabbits",
+                        "plessie_rings",
+                        "clouds"
                     ]
                 ]
             }

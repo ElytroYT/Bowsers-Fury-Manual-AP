@@ -25,7 +25,7 @@
       "category": [
         "01 Scamper Shores"
       ],
-      "requires": "",
+      "requires": "|Fury Shadows|",
       "sort-key": "row-01-002"
     },
     {
@@ -34,7 +34,7 @@
       "category": [
         "01 Scamper Shores"
       ],
-      "requires": "|Carry/Throw|",
+      "requires": "|Carry/Throw| and |Fury Shadows| and |Keys|",
       "sort-key": "row-01-003"
     },
     {
@@ -43,7 +43,7 @@
       "category": [
         "01 Scamper Shores"
       ],
-      "requires": "({PropellerBox(Scamper Shores)} AND |Boost (Propeller Box)|) OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR |Bowser Jr. Cursor|",
+      "requires": "(({PropellerBox(Scamper Shores)} AND |Boost (Propeller Box)|) OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR |Bowser Jr. Cursor|) and |Cat Shine Shards|",
       "sort-key": "row-01-004"
     },
     {
@@ -71,7 +71,7 @@
       "category": [
         "02 Fort Flaptrap"
       ],
-      "requires": "",
+      "requires": "|P-Switches|",
       "sort-key": "row-02-002"
     },
     {
@@ -80,7 +80,7 @@
       "category": [
         "02 Fort Flaptrap"
       ],
-      "requires": "",
+      "requires": "|P-Switches|",
       "sort-key": "row-02-003"
     },
     {
@@ -89,7 +89,7 @@
       "category": [
         "02 Fort Flaptrap"
       ],
-      "requires": "(|Climb| OR ({PropellerBox(Fort Flaptrap)} AND |Boost (Propeller Box)|) OR |Bowser Jr. Cursor| OR {Plessie()}) AND ((|Crouch| AND |Roll|) OR (({SuperBell()} OR {LuckyBell()}) AND (|Claw (Cat)| OR |Pounce (Cat)|)) OR ({BoomerangFlower()} AND |Throw Boomerang (Boomerang)|) OR ({SuperLeaf()} AND |Tail Attack (Tanooki)|) OR {Plessie()})",
+      "requires": "((|Climb| OR ({PropellerBox(Fort Flaptrap)} AND |Boost (Propeller Box)|) OR |Bowser Jr. Cursor| OR {Plessie()}) AND ((|Crouch| AND |Roll|) OR (({SuperBell()} OR {LuckyBell()}) AND (|Claw (Cat)| OR |Pounce (Cat)|)) OR ({BoomerangFlower()} AND |Throw Boomerang (Boomerang)|) OR ({SuperLeaf()} AND |Tail Attack (Tanooki)|) OR {Plessie()})) and |Cat Shine Shards|",
       "sort-key": "row-02-004"
     },
     {
@@ -116,7 +116,7 @@
       "category": [
         "03 Pounce Bounce Isle"
       ],
-      "requires": "|Ground Pound|",
+      "requires": "|Ground Pound| and |Ground Pound Switches|",
       "sort-key": "row-03-002"
     },
     {
@@ -125,7 +125,7 @@
       "category": [
         "03 Pounce Bounce Isle"
       ],
-      "requires": "|Ground Pound| AND |Carry/Throw|",
+      "requires": "|Ground Pound| and |Ground Pound Switches| AND |Carry/Throw| and |Keys|",
       "sort-key": "row-03-003"
     },
     {
@@ -134,7 +134,7 @@
       "category": [
         "03 Pounce Bounce Isle"
       ],
-      "requires": "|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND (|Climb (Cat)| OR |Dive (Cat)|)) OR ({PropellerBox(Pounce Bounce Isle)} AND |Boost (Propeller Box)|) OR ({FireFlower()} AND |Throw Fireballs (Fire)|) OR {Plessie()}",
+      "requires": "(|Ground Pound| OR (({SuperBell()} OR {LuckyBell()}) AND (|Climb (Cat)| OR |Dive (Cat)|)) OR ({PropellerBox(Pounce Bounce Isle)} AND |Boost (Propeller Box)|) OR ({FireFlower()} AND |Throw Fireballs (Fire)|) OR {Plessie()}) and |Cat Shine Shards|",
       "sort-key": "row-03-004"
     },
     {
@@ -152,7 +152,7 @@
       "category": [
         "04 Lakeside Area"
       ],
-      "requires": "|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND (|Carry/Throw| OR ({SuperBell()} OR {LuckyBell()}))",
+      "requires": "(|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|) AND (|Carry/Throw| OR ({SuperBell()} OR {LuckyBell()}))) and |Kittens|",
       "sort-key": "row-04-001"
     },
     {
@@ -161,7 +161,7 @@
       "category": [
         "04 Lakeside Area"
       ],
-      "requires": "|Cat Shine:20| AND (|Giga Bell| AND |Claw (Cat)|) AND |Plessie| AND |Ruins Area|",
+      "requires": "|Cat Shine:20| AND (|Giga Bell| AND |Claw (Cat)|) AND |Plessie| AND |Ruins Area| and |Rabbits|",
       "sort-key": "row-04-002"
     },
     {
@@ -179,7 +179,7 @@
       "category": [
         "04 Lakeside Area"
       ],
-      "requires": "|Cat Shine:20| AND (|Giga Bell| AND |Claw (Cat)|) AND |Plessie| AND |Ruins Area|",
+      "requires": "|Cat Shine:20| AND (|Giga Bell| AND |Claw (Cat)|) AND |Plessie| AND |Ruins Area| and |Plessie Rings|",
       "sort-key": "row-04-004"
     },
     {
@@ -197,7 +197,7 @@
       "category": [
         "05 Slipskate Slope"
       ],
-      "requires": "|Ice Skate|",
+      "requires": "|Ice Skate| and |P-Switches|",
       "sort-key": "row-05-002"
     },
     {
@@ -206,7 +206,7 @@
       "category": [
         "05 Slipskate Slope"
       ],
-      "requires": "|Ice Skate| AND |Carry/Throw|",
+      "requires": "|Ice Skate| and |P-Switches| AND |Carry/Throw| and |Keys|",
       "sort-key": "row-05-003"
     },
     {
@@ -215,7 +215,7 @@
       "category": [
         "05 Slipskate Slope"
       ],
-      "requires": "|Ice Skate| OR ({PropellerBox(Slipskate Slope)} AND |Boost (Propeller Box)|) OR |Bowser Jr. Cursor|",
+      "requires": "(|Ice Skate| OR ({PropellerBox(Slipskate Slope)} AND |Boost (Propeller Box)|) OR |Bowser Jr. Cursor|) and |Cat Shine Shards|",
       "sort-key": "row-05-004"
     },
     {
@@ -260,7 +260,7 @@
       "category": [
         "06 Clawswipe Colosseum"
       ],
-      "requires": "(|Ground Pound| OR ((({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|)) AND |Carry/Throw| AND (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|)) AND (|Climb| OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|) OR |Bowser Jr. Cursor|)",
+      "requires": "((|Ground Pound| OR ((({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|)) AND |Carry/Throw| AND (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|)) AND (|Climb| OR ({PropellerBox(Clawswipe Colosseum)} AND |Boost (Propeller Box)|) OR |Bowser Jr. Cursor|)) and |Cat Shine Shards|",
       "sort-key": "row-06-004"
     },
     {
@@ -287,7 +287,7 @@
       "category": [
         "07 Trickity Tower"
       ],
-      "requires": "",
+      "requires": "|P-Switches|",
       "sort-key": "row-07-002"
     },
     {
@@ -296,7 +296,7 @@
       "category": [
         "07 Trickity Tower"
       ],
-      "requires": "|Ground Pound|",
+      "requires": "|P-Switches| and |Ground Pound| and |Ground Pound Switches|",
       "sort-key": "row-07-003"
     },
     {
@@ -305,7 +305,7 @@
       "category": [
         "07 Trickity Tower"
       ],
-      "requires": "",
+      "requires": "|Cat Shine Shards|",
       "sort-key": "row-07-004"
     },
     {
@@ -332,7 +332,7 @@
       "category": [
         "08 Crisp Climb Castle"
       ],
-      "requires": "(|Propeller Box| AND |Boost (Propeller Box)|) AND |Ground Pound|",
+      "requires": "(|Propeller Box| AND |Boost (Propeller Box)|) AND |Ground Pound| and |Ground Pound Switches|",
       "sort-key": "row-08-002"
     },
     {
@@ -341,7 +341,7 @@
       "category": [
         "08 Crisp Climb Castle"
       ],
-      "requires": "(|Propeller Box| AND |Boost (Propeller Box)|) AND |Ground Pound|",
+      "requires": "(|Propeller Box| AND |Boost (Propeller Box)|) AND |Ground Pound| and |Ground Pound Switches| and |Fury Shadows|",
       "sort-key": "row-08-003"
     },
     {
@@ -350,7 +350,7 @@
       "category": [
         "08 Crisp Climb Castle"
       ],
-      "requires": "(|Propeller Box| AND |Boost (Propeller Box)|)",
+      "requires": "(|Propeller Box| AND |Boost (Propeller Box)|) and |Cat Shine Shards|",
       "sort-key": "row-08-004"
     },
     {
@@ -368,7 +368,7 @@
       "category": [
         "09 Ruins Area"
       ],
-      "requires": "|Ground Pound|",
+      "requires": "|Ground Pound| and |Ground Pound Switches|",
       "sort-key": "row-09-001"
     },
     {
@@ -386,7 +386,7 @@
       "category": [
         "09 Ruins Area"
       ],
-      "requires": "{Plessie()}",
+      "requires": "{Plessie()} and |Plessie Rings|",
       "sort-key": "row-09-003"
     },
     {
@@ -396,7 +396,7 @@
       "category": [
         "09 Ruins Area"
       ],
-      "requires": "|Carry/Throw| AND ({Plessie()} OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|))",
+      "requires": "(|Carry/Throw| AND ({Plessie()} OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|))) and |Kittens|",
       "sort-key": "row-09-004"
     },
     {
@@ -405,7 +405,7 @@
       "category": [
         "09 Ruins Area"
       ],
-      "requires": "|Climb| OR ({PropellerBox(Ruins Area)} AND |Boost (Propeller Box)|)",
+      "requires": "(|Climb| OR ({PropellerBox(Ruins Area)} AND |Boost (Propeller Box)|)) and |Clouds|",
       "sort-key": "row-09-005"
     },
     {
@@ -414,7 +414,7 @@
       "category": [
         "09 Ruins Area"
       ],
-      "requires": "{Plessie()} AND |Clawswipe Colosseum|",
+      "requires": "{Plessie()} AND |Clawswipe Colosseum| and |Rabbits|",
       "sort-key": "row-09-006"
     },
     {
@@ -432,7 +432,7 @@
       "category": [
         "09 Ruins Area"
       ],
-      "requires": "(|Propeller Box| AND |Boost (Propeller Box)|) AND {Plessie()} AND |Crisp Climb Castle|",
+      "requires": "(|Propeller Box| AND |Boost (Propeller Box)|) AND {Plessie()} AND |Crisp Climb Castle| and |Plessie Rings|",
       "sort-key": "row-09-008"
     },
     {
@@ -441,7 +441,7 @@
       "category": [
         "09 Ruins Area"
       ],
-      "requires": "|Ground Pound|",
+      "requires": "|Ground Pound| and |Ground Pound Switches|",
       "sort-key": "row-09-009"
     },
     {
@@ -459,7 +459,7 @@
       "category": [
         "10 Roiling Roller Isle"
       ],
-      "requires": "|Ground Pound|",
+      "requires": "|Ground Pound| and |Ground Pound Switches|",
       "sort-key": "row-10-002"
     },
     {
@@ -468,7 +468,7 @@
       "category": [
         "10 Roiling Roller Isle"
       ],
-      "requires": "|Carry/Throw| AND |Ground Pound|",
+      "requires": "|Carry/Throw| and |Keys| AND |Ground Pound| and |Ground Pound Switches|",
       "sort-key": "row-10-003"
     },
     {
@@ -477,7 +477,7 @@
       "category": [
         "10 Roiling Roller Isle"
       ],
-      "requires": "|Carry/Throw|",
+      "requires": "|Carry/Throw| and |Cat Shine Shards|",
       "sort-key": "row-10-004"
     },
     {
@@ -504,7 +504,7 @@
       "category": [
         "11 Pipe Path Tower"
       ],
-      "requires": "",
+      "requires": "|P-Switches|",
       "sort-key": "row-11-002"
     },
     {
@@ -513,7 +513,7 @@
       "category": [
         "11 Pipe Path Tower"
       ],
-      "requires": "|Carry/Throw|",
+      "requires": "|Carry/Throw| and |Keys| and |P-Switches|",
       "sort-key": "row-11-003"
     },
     {
@@ -522,7 +522,7 @@
       "category": [
         "11 Pipe Path Tower"
       ],
-      "requires": "",
+      "requires": "|Cat Shine Shards|",
       "sort-key": "row-11-004"
     },
     {
@@ -540,7 +540,7 @@
       "category": [
         "12 Risky Whisker Island"
       ],
-      "requires": "",
+      "requires": "|Fury Shadows|",
       "sort-key": "row-12-001"
     },
     {
@@ -549,7 +549,7 @@
       "category": [
         "12 Risky Whisker Island"
       ],
-      "requires": "|Carry/Throw| OR ({LuckyBell()} AND |Ground Pound|)",
+      "requires": "|Fury Shadows| and (|Carry/Throw| OR ({LuckyBell()} AND |Ground Pound|))",
       "sort-key": "row-12-002"
     },
     {
@@ -558,7 +558,7 @@
       "category": [
         "12 Risky Whisker Island"
       ],
-      "requires": "|Carry/Throw| OR ({LuckyBell()} AND |Ground Pound|) AND |Ground Pound|",
+      "requires": "|Fury Shadows| and (|Carry/Throw| OR ({LuckyBell()} AND |Ground Pound|)) AND |Ground Pound| and |Ground Pound Switches|",
       "sort-key": "row-12-003"
     },
     {
@@ -567,7 +567,7 @@
       "category": [
         "12 Risky Whisker Island"
       ],
-      "requires": "",
+      "requires": "|Cat Shine Shards|",
       "sort-key": "row-12-004"
     },
     {
@@ -585,7 +585,7 @@
       "category": [
         "13 Mount Magmeow"
       ],
-      "requires": "|Risky Whisker Island| AND |Pipe Path Tower|",
+      "requires": "",
       "sort-key": "row-13-001"
     },
     {
@@ -594,7 +594,7 @@
       "category": [
         "13 Mount Magmeow"
       ],
-      "requires": "|Risky Whisker Island| AND |Pipe Path Tower|",
+      "requires": "",
       "sort-key": "row-13-002"
     },
     {
@@ -603,7 +603,7 @@
       "category": [
         "13 Mount Magmeow"
       ],
-      "requires": "|Risky Whisker Island| AND |Pipe Path Tower| AND |Ground Pound|",
+      "requires": "|Ground Pound| and |Ground Pound Switches|",
       "sort-key": "row-13-003"
     },
     {
@@ -612,7 +612,7 @@
       "category": [
         "13 Mount Magmeow"
       ],
-      "requires": "|Risky Whisker Island| AND |Pipe Path Tower|",
+      "requires": "|Cat Shine Shards|",
       "sort-key": "row-13-004"
     },
     {
@@ -621,7 +621,7 @@
       "category": [
         "13 Mount Magmeow"
       ],
-      "requires": "|Risky Whisker Island| AND |Pipe Path Tower|",
+      "requires": "",
       "sort-key": "row-13-005"
     },
     {
@@ -630,7 +630,7 @@
       "category": [
         "14 Wasteland Area"
       ],
-      "requires": "|Ground Pound| AND (|Wall Jump| OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|))",
+      "requires": "|Ground Pound| and |Ground Pound Switches| AND (|Wall Jump| OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|))",
       "sort-key": "row-14-001"
     },
     {
@@ -666,7 +666,7 @@
       "category": [
         "14 Wasteland Area"
       ],
-      "requires": "|Pipe Path Tower| AND {Plessie()}",
+      "requires": "|Pipe Path Tower| AND {Plessie()} and |Plessie Rings|",
       "sort-key": "row-14-005"
     },
     {
@@ -675,7 +675,7 @@
       "category": [
         "14 Wasteland Area"
       ],
-      "requires": "|Carry/Throw| AND ({Plessie()} OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|)) AND |Pipe Path Tower| AND |Risky Whisker Island| AND |Mount Magmeow|",
+      "requires": "|Carry/Throw| AND ({Plessie()} OR (({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|)) AND |Pipe Path Tower| AND |Risky Whisker Island| AND |Mount Magmeow| and |Kittens|",
       "sort-key": "row-14-006"
     },
     {
@@ -684,7 +684,7 @@
       "category": [
         "14 Wasteland Area"
       ],
-      "requires": "|Ground Pound|",
+      "requires": "|Ground Pound| and |Ground Pound Switches|",
       "sort-key": "row-14-007"
     },
     {
@@ -702,7 +702,7 @@
       "category": [
         "14 Wasteland Area"
       ],
-      "requires": "|Risky Whisker Island| AND |Pipe Path Tower| AND |Mount Magmeow| AND {Plessie()}",
+      "requires": "|Risky Whisker Island| and |Fury Shadows| AND |Pipe Path Tower| AND |Mount Magmeow| AND {Plessie()} and |Rabbits|",
       "sort-key": "row-14-009"
     },
     {
@@ -711,7 +711,7 @@
       "category": [
         "14 Wasteland Area"
       ],
-      "requires": "|Risky Whisker Island| AND |Pipe Path Tower| AND |Mount Magmeow| AND ((({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Mount Magmeow)} AND |Boost (Propeller Box)|))",
+      "requires": "|Risky Whisker Island| and |Fury Shadows| AND |Pipe Path Tower| AND |Mount Magmeow| AND ((({SuperBell()} OR {LuckyBell()}) AND |Climb (Cat)|) OR ({PropellerBox(Mount Magmeow)} AND |Boost (Propeller Box)|))",
       "sort-key": "row-14-010"
     },
     {
@@ -720,7 +720,7 @@
       "category": [
         "14 Wasteland Area"
       ],
-      "requires": "|Ground Pound|",
+      "requires": "|Ground Pound| and |Ground Pound Switches|",
       "sort-key": "row-14-011"
     },
     {
@@ -729,7 +729,7 @@
       "category": [
         "14 Wasteland Area"
       ],
-      "requires": "(({SuperBell()} OR {LuckyBell()}) AND (|Claw (Cat)| OR |Pounce (Cat)|)) OR ({FireFlower()} AND |Throw Fireballs (Fire)|) OR ({SuperLeaf()} AND |Tail Attack (Tanooki)|) OR ({BoomerangFlower()} AND |Throw Boomerang (Boomerang)|) OR |Ground Pound| OR (|Crouch| AND |Roll|) OR (|Ground Pound| AND |Dive|) OR |Plessie|",
+      "requires": "((({SuperBell()} OR {LuckyBell()}) AND (|Claw (Cat)| OR |Pounce (Cat)|)) OR ({FireFlower()} AND |Throw Fireballs (Fire)|) OR ({SuperLeaf()} AND |Tail Attack (Tanooki)|) OR ({BoomerangFlower()} AND |Throw Boomerang (Boomerang)|) OR |Ground Pound| OR (|Crouch| AND |Roll|) OR (|Ground Pound| AND |Dive|) OR |Plessie|) and |Clouds|",
       "sort-key": "row-14-012"
     },
     {
@@ -739,7 +739,7 @@
         "04 Lakeside Area"
       ],
       "requires": "(|Cat Shine:5| AND (|Giga Bell| AND |Claw (Cat)|))",
-      "sort-key": "row-14-013"
+      "sort-key": "row-04-005"
     },
     {
       "name": "Bowser Fight 2",
@@ -748,7 +748,7 @@
         "09 Ruins Area"
       ],
       "requires": "(|Cat Shine:15| AND (|Giga Bell| AND |Claw (Cat)|))",
-      "sort-key": "row-14-014"
+      "sort-key": "row-09-012"
     },
     {
       "name": "Bowser Fight 3",
@@ -757,7 +757,7 @@
         "09 Ruins Area"
       ],
       "requires": "(|Cat Shine:20| AND (|Giga Bell| AND |Claw (Cat)|))",
-      "sort-key": "row-14-015"
+      "sort-key": "row-09-013"
     },
     {
       "name": "Bowser Fight 4",
@@ -1001,7 +1001,7 @@
         "14 Wasteland Area"
       ],
       "requires": "|Bowser Jr. Cursor|",
-      "sort-key": "row-14-018"
+      "sort-key": "row-14-013"
     },
     {
       "name": "Wasteland Area Fire Flower Graffiti",
@@ -1010,7 +1010,7 @@
         "14 Wasteland Area"
       ],
       "requires": "|Bowser Jr. Cursor|",
-      "sort-key": "row-14-019"
+      "sort-key": "row-14-014"
     },
     {
       "name": "Wasteland Area Boomerang Graffiti",
@@ -1019,7 +1019,7 @@
         "14 Wasteland Area"
       ],
       "requires": "|Bowser Jr. Cursor|",
-      "sort-key": "row-14-020"
+      "sort-key": "row-14-015"
     }
   ]
 }

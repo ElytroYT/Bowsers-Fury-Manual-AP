@@ -417,8 +417,62 @@
       "progression": true
     },
     {
-      "count": "62",
+      "count": "53",
       "name": "Cat Shine",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Fury Shadows",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Keys",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cat Shine Shards",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "P-Switches",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ground Pound Switches",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Kittens",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Rabbits",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Plessie Rings",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Clouds",
       "category": [],
       "progression": true
     }

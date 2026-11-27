@@ -137,7 +137,7 @@
       "Risky Whisker Island",
       "Wasteland Area"
     ],
-    "requires": "|Mount Magmeow| AND |Cat Shine:20| AND (|Giga Bell| AND |Claw (Cat)|)"
+    "requires": "|Mount Magmeow| AND |Cat Shine:20| AND (|Giga Bell| AND |Claw (Cat)|) AND |Risky Whisker Island| AND |Fury Shadows| AND |Pipe Path Tower|"
   },
   "Wasteland Area": {
     "connects_to": [

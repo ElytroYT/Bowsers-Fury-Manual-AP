@@ -318,5 +318,59 @@
         "codes": "cat_shine",
         "max_quantity": 73,
         "overlay_font_size": 20
+    },
+    {
+        "name": "Fury Shadows",
+        "type": "toggle",
+        "img": "images/items/Fury_Shadows.png",
+        "codes": "fury_shadows"
+    },
+    {
+        "name": "Keys",
+        "type": "toggle",
+        "img": "images/items/Keys.png",
+        "codes": "keys"
+    },
+    {
+        "name": "Cat Shine Shards",
+        "type": "toggle",
+        "img": "images/items/Cat_Shine_Shards.png",
+        "codes": "cat_shine_shards"
+    },
+    {
+        "name": "P-Switches",
+        "type": "toggle",
+        "img": "images/items/P-Switches.png",
+        "codes": "p-switches"
+    },
+    {
+        "name": "Ground Pound Switches",
+        "type": "toggle",
+        "img": "images/items/Ground_Pound_Switches.png",
+        "codes": "ground_pound_switches"
+    },
+    {
+        "name": "Kittens",
+        "type": "toggle",
+        "img": "images/items/Kittens.png",
+        "codes": "kittens"
+    },
+    {
+        "name": "Rabbits",
+        "type": "toggle",
+        "img": "images/items/Rabbits.png",
+        "codes": "rabbits"
+    },
+    {
+        "name": "Plessie Rings",
+        "type": "toggle",
+        "img": "images/items/Plessie_Rings.png",
+        "codes": "plessie_rings"
+    },
+    {
+        "name": "Clouds",
+        "type": "toggle",
+        "img": "images/items/Clouds.png",
+        "codes": "clouds"
     }
 ]

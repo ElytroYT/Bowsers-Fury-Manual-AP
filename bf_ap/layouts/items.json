@@ -7,6 +7,7 @@
                 "type": "itemgrid",
                 "h_alignment": "left",
                 "item_v_alignment": "middle",
+                "item_h_alignment": "middle",
                 "item_margin": "1,1",
                 "item_size": "50",
                 "rows": [
@@ -84,7 +85,17 @@
                         "unlock_wasteland_area"
                     ],
                     [
-                        "cat_shine"
+                        "cat_shine",
+                        "",
+                        "fury_shadows",
+                        "keys",
+                        "cat_shine_shards",
+                        "p-switches",
+                        "ground_pound_switches",
+                        "kittens",
+                        "rabbits",
+                        "plessie_rings",
+                        "clouds"
                     ]
                 ]
             }

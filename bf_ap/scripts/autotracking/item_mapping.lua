@@ -50,5 +50,14 @@ ITEM_MAPPING = {
 	[49] = {"unlock_lakeside_area", "toggle"},
 	[50] = {"unlock_ruins_area", "toggle"},
 	[51] = {"unlock_wasteland_area", "toggle"},
-	[52] = {"cat_shine", "consumable"}
+	[52] = {"cat_shine", "consumable"},
+	[53] = {"fury_shadows", "toggle"},
+	[54] = {"keys", "toggle"},
+	[55] = {"cat_shine_shards", "toggle"},
+	[56] = {"p-switches", "toggle"},
+	[57] = {"ground_pound_switches", "toggle"},
+	[58] = {"kittens", "toggle"},
+	[59] = {"rabbits", "toggle"},
+	[60] = {"plessie_rings", "toggle"},
+	[61] = {"clouds", "toggle"}
 }

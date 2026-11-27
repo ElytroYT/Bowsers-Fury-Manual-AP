@@ -70,11 +70,13 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 #       will create 5 items that are the "useful trap" class
 # {"Item Name": {ItemClassification.useful: 5}} <- You can also use the classification directly
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
-    maximum_shines = 62
+    maximum_shines = 53
     if not is_option_enabled(multiworld,player,"powerup_abilities"):
         maximum_shines += 10
     if not is_option_enabled(multiworld,player,"plessie_abilities"):
         maximum_shines += 1
+    if not is_option_enabled(multiworld,player,"level_elements"):
+        maximum_shines += 9
     num_shines = min(50+get_option_value(multiworld,player,"extra_shines"),maximum_shines)
     item_config["Cat Shine"] = {"progression": num_shines}
     return item_config

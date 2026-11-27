@@ -41,14 +41,25 @@
             "type": "Toggle",
             "default": true
         },
+        "level_elements":{
+            "display_name": "Lock Level Elements",
+            "description": [
+                "If level elements will be locked or not",
+                "Level elements includes: Fury Shadows, Keys, Cat Shine Shards, P-Switches, Ground Pound Switches,",
+                "Kittens, Rabbits, Plessie Rings, and Clouds"
+            ],
+            "type": "Toggle",
+            "default": true
+        },
         "extra_shines":{
             "display_name": "Extra Cat Shines",
             "type": "Range",
             "description": [
                 "How many extra Cat Shines over the 50 required for the final fight will be added to the item pool",
-                "23 is the theoretical maximum assuming you have both options above disabled",
+                "23 is the theoretical maximum assuming you have all options above disabled",
                 "Having 'Lock Powerup Abilities' disabled frees 10 item slots in the item pool",
                 "Having 'Lock Dive (Plessie)' disabled frees 1 item slot in the item pool",
+                "Having 'Lock Level Elements' disabled frees 9 item slots in the item pool",
                 "The amount of extra Cat Shines added will be automatically reduced if set too high for your other options"
             ],
             "range_start": 0,
